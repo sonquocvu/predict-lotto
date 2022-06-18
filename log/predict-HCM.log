@@ -1,0 +1,5 @@
+2022-05-15 13:11:40,267 — INFO — Start:273 — The result is: [5 3 1 4 3 6]
+2022-05-15 13:41:46,995 — INFO — Start:273 — The result is: [4 4 5 1 2 2]
+2022-05-15 13:41:46,995 — INFO — Start:274 — The result's type: <class 'numpy.ndarray'>
+2022-05-15 15:09:42,389 — INFO — Start:273 — The result is: [3 3 3 4 3 3]
+2022-05-15 15:09:42,389 — INFO — Start:274 — The result's type: <class 'numpy.ndarray'>

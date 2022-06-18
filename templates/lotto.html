@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.button {
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  border-radius: 12px;
+}
+
+.vietlott645 {
+    background-color: white;
+    color: green;
+    border: 2px solid green;
+}
+
+.vietlott645:hover {
+  background-color: green;
+  color: white;
+}
+
+.vietlott645:active {
+  background-color: green;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+.vietlott655 {
+    background-color: white;
+    color: dodgerblue;
+    border: 2px solid dodgerblue;
+}
+
+.vietlott655:hover {
+    background-color: dodgerblue;
+    color: white;   
+}
+
+.vietlott655:active {
+  background-color: dodgerblue;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+.HCM {
+    background-color: white;
+    color: orange;
+    border: 2px solid orange;
+}
+
+.HCM:hover {
+    background-color: orange;
+    color: white;
+}
+
+.HCM:active {
+  background-color: orange;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+.Dongnai {
+    background-color: white;
+    color: red;
+    border: 2px solid red;
+}
+
+.Dongnai:hover {
+    background-color: red;
+    color: white;
+}
+
+.Dongnai:active {
+  background-color: red;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+.Vungtau {
+    background-color: white;
+    color: black;
+    border: 2px solid black;
+}
+
+.Vungtau:hover {
+    background-color: black;
+    color: white;
+}
+
+.Vungtau:active {
+  background-color: black;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+</style>
+</head>
+<body>
+
+<h2>Lotto Prediction</h2>
+
+<form method="GET" action="/predict/Vietlott645">
+    <button class="button vietlott645" type="submit" value="Vietlott645">Vietlott645</button>
+</form>
+
+<form method="GET" action="/predict/Vietlott655">
+    <button class="button vietlott655" value="Vietlott655">Vietlott655</button>
+</form>
+
+<form method="GET" action="/predict/HCM">
+    <button class="button HCM" value="HCM">HCM</button>
+</form>
+
+<form method="GET" action="/predict/Dongnai">
+    <button class="button Dongnai" value="Dongnai">Dong Nai</button>
+</form>
+
+<form method="GET" action="/predict/Vungtau"></form>
+    <button class="button Vungtau" value="Vungtau">Vung Tau</button>
+</form>
+
+</body>
+</html>

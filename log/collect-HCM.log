@@ -1,0 +1,1626 @@
+2022-06-05 11:43:34,398 — INFO — Start:180 — Starting Collecting Data For HCM
+2022-06-05 11:43:34,398 — INFO — Start:181 — ****************Please Wait****************
+2022-06-05 11:43:34,522 — INFO — __CollectTraditionalPage:119 — The Date is: 04/06/2022
+2022-06-05 11:43:34,525 — INFO — __CollectTraditionalPage:123 — The Result is: 666780
+2022-06-05 11:43:34,525 — INFO — __CollectTraditionalPage:128 — The date 04/06/2022: [6, 6, 6, 7, 8, 0]
+2022-06-05 11:43:34,528 — INFO — __CollectTraditionalPage:119 — The Date is: 30/05/2022
+2022-06-05 11:43:34,530 — INFO — __CollectTraditionalPage:123 — The Result is: 275006
+2022-06-05 11:43:34,530 — INFO — __CollectTraditionalPage:128 — The date 30/05/2022: [2, 7, 5, 0, 0, 6]
+2022-06-05 11:43:34,533 — INFO — __CollectTraditionalPage:119 — The Date is: 28/05/2022
+2022-06-05 11:43:34,535 — INFO — __CollectTraditionalPage:123 — The Result is: 925810
+2022-06-05 11:43:34,535 — INFO — __CollectTraditionalPage:128 — The date 28/05/2022: [9, 2, 5, 8, 1, 0]
+2022-06-05 11:43:34,538 — INFO — __CollectTraditionalPage:119 — The Date is: 23/05/2022
+2022-06-05 11:43:34,540 — INFO — __CollectTraditionalPage:123 — The Result is: 149345
+2022-06-05 11:43:34,540 — INFO — __CollectTraditionalPage:128 — The date 23/05/2022: [1, 4, 9, 3, 4, 5]
+2022-06-05 11:43:34,542 — INFO — __CollectTraditionalPage:119 — The Date is: 21/05/2022
+2022-06-05 11:43:34,545 — INFO — __CollectTraditionalPage:123 — The Result is: 108098
+2022-06-05 11:43:34,545 — INFO — __CollectTraditionalPage:128 — The date 21/05/2022: [1, 0, 8, 0, 9, 8]
+2022-06-05 11:43:34,547 — INFO — __CollectTraditionalPage:119 — The Date is: 16/05/2022
+2022-06-05 11:43:34,549 — INFO — __CollectTraditionalPage:123 — The Result is: 977447
+2022-06-05 11:43:34,549 — INFO — __CollectTraditionalPage:128 — The date 16/05/2022: [9, 7, 7, 4, 4, 7]
+2022-06-05 11:43:34,717 — INFO — __CollectTraditionalPage:147 — Go to the next page.
+2022-06-05 11:43:35,326 — INFO — __CollectTraditionalPage:119 — The Date is: 04/06/2022
+2022-06-05 11:43:35,330 — INFO — __CollectTraditionalPage:123 — The Result is: 666780
+2022-06-05 11:43:35,330 — INFO — __CollectTraditionalPage:128 — The date 04/06/2022: [6, 6, 6, 7, 8, 0]
+2022-06-05 11:43:35,333 — INFO — __CollectTraditionalPage:119 — The Date is: 30/05/2022
+2022-06-05 11:43:35,335 — INFO — __CollectTraditionalPage:123 — The Result is: 275006
+2022-06-05 11:43:35,335 — INFO — __CollectTraditionalPage:128 — The date 30/05/2022: [2, 7, 5, 0, 0, 6]
+2022-06-05 11:43:35,339 — INFO — __CollectTraditionalPage:119 — The Date is: 28/05/2022
+2022-06-05 11:43:35,341 — INFO — __CollectTraditionalPage:123 — The Result is: 925810
+2022-06-05 11:43:35,341 — INFO — __CollectTraditionalPage:128 — The date 28/05/2022: [9, 2, 5, 8, 1, 0]
+2022-06-05 11:43:35,345 — INFO — __CollectTraditionalPage:119 — The Date is: 23/05/2022
+2022-06-05 11:43:35,348 — INFO — __CollectTraditionalPage:123 — The Result is: 149345
+2022-06-05 11:43:35,348 — INFO — __CollectTraditionalPage:128 — The date 23/05/2022: [1, 4, 9, 3, 4, 5]
+2022-06-05 11:43:35,355 — INFO — __CollectTraditionalPage:119 — The Date is: 21/05/2022
+2022-06-05 11:43:35,357 — INFO — __CollectTraditionalPage:123 — The Result is: 108098
+2022-06-05 11:43:35,357 — INFO — __CollectTraditionalPage:128 — The date 21/05/2022: [1, 0, 8, 0, 9, 8]
+2022-06-05 11:43:35,379 — INFO — __CollectTraditionalPage:119 — The Date is: 16/05/2022
+2022-06-05 11:43:35,381 — INFO — __CollectTraditionalPage:123 — The Result is: 977447
+2022-06-05 11:43:35,381 — INFO — __CollectTraditionalPage:128 — The date 16/05/2022: [9, 7, 7, 4, 4, 7]
+2022-06-05 11:44:25,024 — INFO — Start:180 — Starting Collecting Data For Vietlott645
+2022-06-05 11:44:25,024 — INFO — Start:181 — ****************Please Wait****************
+2022-06-05 11:44:25,349 — INFO — __CollectVietlottPage:87 — The raw Result: 05
+2022-06-05 11:44:25,349 — INFO — __CollectVietlottPage:88 — The date 03/06/2022: [0, 5]
+2022-06-05 11:44:25,350 — INFO — __CollectVietlottPage:87 — The raw Result: 06
+2022-06-05 11:44:25,350 — INFO — __CollectVietlottPage:88 — The date 01/06/2022: [0, 6]
+2022-06-05 11:44:25,350 — INFO — __CollectVietlottPage:87 — The raw Result: 02
+2022-06-05 11:44:25,351 — INFO — __CollectVietlottPage:88 — The date 29/05/2022: [0, 2]
+2022-06-05 11:44:25,351 — INFO — __CollectVietlottPage:87 — The raw Result: 16
+2022-06-05 11:44:25,351 — INFO — __CollectVietlottPage:88 — The date 27/05/2022: [1, 6]
+2022-06-05 11:44:25,352 — INFO — __CollectVietlottPage:87 — The raw Result: 19
+2022-06-05 11:44:25,352 — INFO — __CollectVietlottPage:88 — The date 25/05/2022: [1, 9]
+2022-06-05 11:44:25,352 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:44:25,352 — INFO — __CollectVietlottPage:88 — The date 22/05/2022: [0, 1]
+2022-06-05 11:44:25,353 — INFO — __CollectVietlottPage:87 — The raw Result: 12
+2022-06-05 11:44:25,353 — INFO — __CollectVietlottPage:88 — The date 20/05/2022: [1, 2]
+2022-06-05 11:44:25,354 — INFO — __CollectVietlottPage:87 — The raw Result: 03
+2022-06-05 11:44:25,354 — INFO — __CollectVietlottPage:88 — The date 18/05/2022: [0, 3]
+2022-06-05 11:44:25,425 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:44:25,898 — INFO — __CollectVietlottPage:87 — The raw Result: 05
+2022-06-05 11:44:25,899 — INFO — __CollectVietlottPage:88 — The date 15/05/2022: [0, 5]
+2022-06-05 11:44:25,899 — INFO — __CollectVietlottPage:87 — The raw Result: 07
+2022-06-05 11:44:25,899 — INFO — __CollectVietlottPage:88 — The date 13/05/2022: [0, 7]
+2022-06-05 11:44:25,900 — INFO — __CollectVietlottPage:87 — The raw Result: 02
+2022-06-05 11:44:25,900 — INFO — __CollectVietlottPage:88 — The date 11/05/2022: [0, 2]
+2022-06-05 11:44:25,900 — INFO — __CollectVietlottPage:87 — The raw Result: 04
+2022-06-05 11:44:25,900 — INFO — __CollectVietlottPage:88 — The date 08/05/2022: [0, 4]
+2022-06-05 11:44:25,901 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:44:25,901 — INFO — __CollectVietlottPage:88 — The date 06/05/2022: [0, 1]
+2022-06-05 11:44:25,901 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:44:25,902 — INFO — __CollectVietlottPage:88 — The date 04/05/2022: [0, 1]
+2022-06-05 11:44:25,902 — INFO — __CollectVietlottPage:87 — The raw Result: 08
+2022-06-05 11:44:25,902 — INFO — __CollectVietlottPage:88 — The date 01/05/2022: [0, 8]
+2022-06-05 11:44:25,903 — INFO — __CollectVietlottPage:87 — The raw Result: 05
+2022-06-05 11:44:25,903 — INFO — __CollectVietlottPage:88 — The date 29/04/2022: [0, 5]
+2022-06-05 11:44:25,947 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:44:26,363 — INFO — __CollectVietlottPage:87 — The raw Result: 05
+2022-06-05 11:44:26,363 — INFO — __CollectVietlottPage:88 — The date 15/05/2022: [0, 5]
+2022-06-05 11:44:26,363 — INFO — __CollectVietlottPage:87 — The raw Result: 07
+2022-06-05 11:44:26,363 — INFO — __CollectVietlottPage:88 — The date 13/05/2022: [0, 7]
+2022-06-05 11:44:26,364 — INFO — __CollectVietlottPage:87 — The raw Result: 02
+2022-06-05 11:44:26,364 — INFO — __CollectVietlottPage:88 — The date 11/05/2022: [0, 2]
+2022-06-05 11:44:26,364 — INFO — __CollectVietlottPage:87 — The raw Result: 04
+2022-06-05 11:44:26,365 — INFO — __CollectVietlottPage:88 — The date 08/05/2022: [0, 4]
+2022-06-05 11:44:26,365 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:44:26,366 — INFO — __CollectVietlottPage:88 — The date 06/05/2022: [0, 1]
+2022-06-05 11:44:26,367 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:44:26,367 — INFO — __CollectVietlottPage:88 — The date 04/05/2022: [0, 1]
+2022-06-05 11:44:26,368 — INFO — __CollectVietlottPage:87 — The raw Result: 08
+2022-06-05 11:44:26,368 — INFO — __CollectVietlottPage:88 — The date 01/05/2022: [0, 8]
+2022-06-05 11:44:26,369 — INFO — __CollectVietlottPage:87 — The raw Result: 05
+2022-06-05 11:44:26,369 — INFO — __CollectVietlottPage:88 — The date 29/04/2022: [0, 5]
+2022-06-05 11:44:26,419 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:44:26,910 — INFO — __CollectVietlottPage:87 — The raw Result: 02
+2022-06-05 11:44:26,910 — INFO — __CollectVietlottPage:88 — The date 08/04/2022: [0, 2]
+2022-06-05 11:44:26,911 — INFO — __CollectVietlottPage:87 — The raw Result: 13
+2022-06-05 11:44:26,911 — INFO — __CollectVietlottPage:88 — The date 06/04/2022: [1, 3]
+2022-06-05 11:44:26,912 — INFO — __CollectVietlottPage:87 — The raw Result: 05
+2022-06-05 11:44:26,912 — INFO — __CollectVietlottPage:88 — The date 03/04/2022: [0, 5]
+2022-06-05 11:44:26,913 — INFO — __CollectVietlottPage:87 — The raw Result: 02
+2022-06-05 11:44:26,913 — INFO — __CollectVietlottPage:88 — The date 01/04/2022: [0, 2]
+2022-06-05 11:44:26,914 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:44:26,914 — INFO — __CollectVietlottPage:88 — The date 30/03/2022: [0, 1]
+2022-06-05 11:44:26,914 — INFO — __CollectVietlottPage:87 — The raw Result: 08
+2022-06-05 11:44:26,914 — INFO — __CollectVietlottPage:88 — The date 27/03/2022: [0, 8]
+2022-06-05 11:44:26,915 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:44:26,915 — INFO — __CollectVietlottPage:88 — The date 25/03/2022: [0, 1]
+2022-06-05 11:44:26,916 — INFO — __CollectVietlottPage:87 — The raw Result: 02
+2022-06-05 11:44:26,916 — INFO — __CollectVietlottPage:88 — The date 23/03/2022: [0, 2]
+2022-06-05 11:44:26,969 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:44:29,640 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:44:29,640 — INFO — __CollectVietlottPage:88 — The date 20/03/2022: [0, 1]
+2022-06-05 11:44:29,641 — INFO — __CollectVietlottPage:87 — The raw Result: 06
+2022-06-05 11:44:29,641 — INFO — __CollectVietlottPage:88 — The date 18/03/2022: [0, 6]
+2022-06-05 11:44:29,642 — INFO — __CollectVietlottPage:87 — The raw Result: 10
+2022-06-05 11:44:29,642 — INFO — __CollectVietlottPage:88 — The date 16/03/2022: [1, 0]
+2022-06-05 11:44:29,642 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:44:29,643 — INFO — __CollectVietlottPage:88 — The date 13/03/2022: [0, 1]
+2022-06-05 11:44:29,643 — INFO — __CollectVietlottPage:87 — The raw Result: 06
+2022-06-05 11:44:29,644 — INFO — __CollectVietlottPage:88 — The date 11/03/2022: [0, 6]
+2022-06-05 11:44:29,644 — INFO — __CollectVietlottPage:87 — The raw Result: 03
+2022-06-05 11:44:29,644 — INFO — __CollectVietlottPage:88 — The date 09/03/2022: [0, 3]
+2022-06-05 11:44:29,645 — INFO — __CollectVietlottPage:87 — The raw Result: 11
+2022-06-05 11:44:29,645 — INFO — __CollectVietlottPage:88 — The date 06/03/2022: [1, 1]
+2022-06-05 11:44:29,646 — INFO — __CollectVietlottPage:87 — The raw Result: 03
+2022-06-05 11:44:29,646 — INFO — __CollectVietlottPage:88 — The date 04/03/2022: [0, 3]
+2022-06-05 11:44:29,687 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:44:30,122 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:44:30,122 — INFO — __CollectVietlottPage:88 — The date 20/03/2022: [0, 1]
+2022-06-05 11:44:30,123 — INFO — __CollectVietlottPage:87 — The raw Result: 06
+2022-06-05 11:44:30,123 — INFO — __CollectVietlottPage:88 — The date 18/03/2022: [0, 6]
+2022-06-05 11:44:30,123 — INFO — __CollectVietlottPage:87 — The raw Result: 10
+2022-06-05 11:44:30,123 — INFO — __CollectVietlottPage:88 — The date 16/03/2022: [1, 0]
+2022-06-05 11:44:30,124 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:44:30,124 — INFO — __CollectVietlottPage:88 — The date 13/03/2022: [0, 1]
+2022-06-05 11:44:30,125 — INFO — __CollectVietlottPage:87 — The raw Result: 06
+2022-06-05 11:44:30,125 — INFO — __CollectVietlottPage:88 — The date 11/03/2022: [0, 6]
+2022-06-05 11:44:30,126 — INFO — __CollectVietlottPage:87 — The raw Result: 03
+2022-06-05 11:44:30,126 — INFO — __CollectVietlottPage:88 — The date 09/03/2022: [0, 3]
+2022-06-05 11:44:30,127 — INFO — __CollectVietlottPage:87 — The raw Result: 11
+2022-06-05 11:44:30,127 — INFO — __CollectVietlottPage:88 — The date 06/03/2022: [1, 1]
+2022-06-05 11:44:30,128 — INFO — __CollectVietlottPage:87 — The raw Result: 03
+2022-06-05 11:44:30,128 — INFO — __CollectVietlottPage:88 — The date 04/03/2022: [0, 3]
+2022-06-05 11:44:30,164 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:44:30,657 — INFO — __CollectVietlottPage:87 — The raw Result: 07
+2022-06-05 11:44:30,657 — INFO — __CollectVietlottPage:88 — The date 02/03/2022: [0, 7]
+2022-06-05 11:44:30,659 — INFO — __CollectVietlottPage:87 — The raw Result: 10
+2022-06-05 11:44:30,659 — INFO — __CollectVietlottPage:88 — The date 27/02/2022: [1, 0]
+2022-06-05 11:44:30,660 — INFO — __CollectVietlottPage:87 — The raw Result: 10
+2022-06-05 11:44:30,660 — INFO — __CollectVietlottPage:88 — The date 25/02/2022: [1, 0]
+2022-06-05 11:44:30,660 — INFO — __CollectVietlottPage:87 — The raw Result: 02
+2022-06-05 11:44:30,660 — INFO — __CollectVietlottPage:88 — The date 23/02/2022: [0, 2]
+2022-06-05 11:44:30,661 — INFO — __CollectVietlottPage:87 — The raw Result: 04
+2022-06-05 11:44:30,661 — INFO — __CollectVietlottPage:88 — The date 20/02/2022: [0, 4]
+2022-06-05 11:44:30,662 — INFO — __CollectVietlottPage:87 — The raw Result: 03
+2022-06-05 11:44:30,662 — INFO — __CollectVietlottPage:88 — The date 18/02/2022: [0, 3]
+2022-06-05 11:44:30,662 — INFO — __CollectVietlottPage:87 — The raw Result: 02
+2022-06-05 11:44:30,662 — INFO — __CollectVietlottPage:88 — The date 16/02/2022: [0, 2]
+2022-06-05 11:44:30,663 — INFO — __CollectVietlottPage:87 — The raw Result: 14
+2022-06-05 11:44:30,663 — INFO — __CollectVietlottPage:88 — The date 13/02/2022: [1, 4]
+2022-06-05 11:44:30,700 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:44:31,122 — INFO — __CollectVietlottPage:87 — The raw Result: 10
+2022-06-05 11:44:31,122 — INFO — __CollectVietlottPage:88 — The date 11/02/2022: [1, 0]
+2022-06-05 11:44:31,123 — INFO — __CollectVietlottPage:87 — The raw Result: 03
+2022-06-05 11:44:31,123 — INFO — __CollectVietlottPage:88 — The date 09/02/2022: [0, 3]
+2022-06-05 11:44:31,129 — INFO — __CollectVietlottPage:87 — The raw Result: 05
+2022-06-05 11:44:31,129 — INFO — __CollectVietlottPage:88 — The date 06/02/2022: [0, 5]
+2022-06-05 11:44:31,130 — INFO — __CollectVietlottPage:87 — The raw Result: 11
+2022-06-05 11:44:31,130 — INFO — __CollectVietlottPage:88 — The date 04/02/2022: [1, 1]
+2022-06-05 11:44:31,131 — INFO — __CollectVietlottPage:87 — The raw Result: 05
+2022-06-05 11:44:31,131 — INFO — __CollectVietlottPage:88 — The date 02/02/2022: [0, 5]
+2022-06-05 11:44:31,131 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:44:31,131 — INFO — __CollectVietlottPage:88 — The date 30/01/2022: [0, 1]
+2022-06-05 11:44:31,132 — INFO — __CollectVietlottPage:87 — The raw Result: 04
+2022-06-05 11:44:31,132 — INFO — __CollectVietlottPage:88 — The date 28/01/2022: [0, 4]
+2022-06-05 11:44:31,133 — INFO — __CollectVietlottPage:87 — The raw Result: 05
+2022-06-05 11:44:31,133 — INFO — __CollectVietlottPage:88 — The date 26/01/2022: [0, 5]
+2022-06-05 11:44:31,180 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:44:31,565 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:44:31,566 — INFO — __CollectVietlottPage:88 — The date 05/01/2022: [0, 1]
+2022-06-05 11:44:31,566 — INFO — __CollectVietlottPage:87 — The raw Result: 11
+2022-06-05 11:44:31,566 — INFO — __CollectVietlottPage:88 — The date 02/01/2022: [1, 1]
+2022-06-05 11:44:31,567 — INFO — __CollectVietlottPage:87 — The raw Result: 02
+2022-06-05 11:44:31,567 — INFO — __CollectVietlottPage:88 — The date 31/12/2021: [0, 2]
+2022-06-05 11:44:31,568 — INFO — __CollectVietlottPage:87 — The raw Result: 05
+2022-06-05 11:44:31,568 — INFO — __CollectVietlottPage:88 — The date 29/12/2021: [0, 5]
+2022-06-05 11:44:31,569 — INFO — __CollectVietlottPage:87 — The raw Result: 04
+2022-06-05 11:44:31,569 — INFO — __CollectVietlottPage:88 — The date 26/12/2021: [0, 4]
+2022-06-05 11:44:31,569 — INFO — __CollectVietlottPage:87 — The raw Result: 03
+2022-06-05 11:44:31,569 — INFO — __CollectVietlottPage:88 — The date 24/12/2021: [0, 3]
+2022-06-05 11:44:31,570 — INFO — __CollectVietlottPage:87 — The raw Result: 08
+2022-06-05 11:44:31,570 — INFO — __CollectVietlottPage:88 — The date 22/12/2021: [0, 8]
+2022-06-05 11:44:31,570 — INFO — __CollectVietlottPage:87 — The raw Result: 12
+2022-06-05 11:44:31,571 — INFO — __CollectVietlottPage:88 — The date 19/12/2021: [1, 2]
+2022-06-05 11:44:31,617 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:44:32,136 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:44:32,136 — INFO — __CollectVietlottPage:88 — The date 05/01/2022: [0, 1]
+2022-06-05 11:44:32,137 — INFO — __CollectVietlottPage:87 — The raw Result: 11
+2022-06-05 11:44:32,137 — INFO — __CollectVietlottPage:88 — The date 02/01/2022: [1, 1]
+2022-06-05 11:44:32,138 — INFO — __CollectVietlottPage:87 — The raw Result: 02
+2022-06-05 11:44:32,138 — INFO — __CollectVietlottPage:88 — The date 31/12/2021: [0, 2]
+2022-06-05 11:44:32,139 — INFO — __CollectVietlottPage:87 — The raw Result: 05
+2022-06-05 11:44:32,139 — INFO — __CollectVietlottPage:88 — The date 29/12/2021: [0, 5]
+2022-06-05 11:44:32,139 — INFO — __CollectVietlottPage:87 — The raw Result: 04
+2022-06-05 11:44:32,139 — INFO — __CollectVietlottPage:88 — The date 26/12/2021: [0, 4]
+2022-06-05 11:44:32,143 — INFO — __CollectVietlottPage:87 — The raw Result: 03
+2022-06-05 11:44:32,143 — INFO — __CollectVietlottPage:88 — The date 24/12/2021: [0, 3]
+2022-06-05 11:44:32,144 — INFO — __CollectVietlottPage:87 — The raw Result: 08
+2022-06-05 11:44:32,144 — INFO — __CollectVietlottPage:88 — The date 22/12/2021: [0, 8]
+2022-06-05 11:44:32,144 — INFO — __CollectVietlottPage:87 — The raw Result: 12
+2022-06-05 11:44:32,145 — INFO — __CollectVietlottPage:88 — The date 19/12/2021: [1, 2]
+2022-06-05 11:44:32,195 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:44:32,594 — INFO — __CollectVietlottPage:87 — The raw Result: 08
+2022-06-05 11:44:32,594 — INFO — __CollectVietlottPage:88 — The date 17/12/2021: [0, 8]
+2022-06-05 11:44:32,595 — INFO — __CollectVietlottPage:87 — The raw Result: 03
+2022-06-05 11:44:32,595 — INFO — __CollectVietlottPage:88 — The date 15/12/2021: [0, 3]
+2022-06-05 11:44:32,596 — INFO — __CollectVietlottPage:87 — The raw Result: 16
+2022-06-05 11:44:32,596 — INFO — __CollectVietlottPage:88 — The date 12/12/2021: [1, 6]
+2022-06-05 11:44:32,596 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:44:32,596 — INFO — __CollectVietlottPage:88 — The date 10/12/2021: [0, 1]
+2022-06-05 11:44:32,597 — INFO — __CollectVietlottPage:87 — The raw Result: 02
+2022-06-05 11:44:32,597 — INFO — __CollectVietlottPage:88 — The date 08/12/2021: [0, 2]
+2022-06-05 11:44:32,597 — INFO — __CollectVietlottPage:87 — The raw Result: 03
+2022-06-05 11:44:32,597 — INFO — __CollectVietlottPage:88 — The date 05/12/2021: [0, 3]
+2022-06-05 11:44:32,598 — INFO — __CollectVietlottPage:87 — The raw Result: 10
+2022-06-05 11:44:32,598 — INFO — __CollectVietlottPage:88 — The date 03/12/2021: [1, 0]
+2022-06-05 11:44:32,598 — INFO — __CollectVietlottPage:87 — The raw Result: 08
+2022-06-05 11:44:32,598 — INFO — __CollectVietlottPage:88 — The date 01/12/2021: [0, 8]
+2022-06-05 11:44:32,646 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:44:33,049 — INFO — __CollectVietlottPage:87 — The raw Result: 13
+2022-06-05 11:44:33,049 — INFO — __CollectVietlottPage:88 — The date 28/11/2021: [1, 3]
+2022-06-05 11:44:33,050 — INFO — __CollectVietlottPage:87 — The raw Result: 04
+2022-06-05 11:44:33,050 — INFO — __CollectVietlottPage:88 — The date 26/11/2021: [0, 4]
+2022-06-05 11:44:33,050 — INFO — __CollectVietlottPage:87 — The raw Result: 02
+2022-06-05 11:44:33,050 — INFO — __CollectVietlottPage:88 — The date 24/11/2021: [0, 2]
+2022-06-05 11:44:33,051 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:44:33,051 — INFO — __CollectVietlottPage:88 — The date 21/11/2021: [0, 1]
+2022-06-05 11:44:33,051 — INFO — __CollectVietlottPage:87 — The raw Result: 09
+2022-06-05 11:44:33,051 — INFO — __CollectVietlottPage:88 — The date 19/11/2021: [0, 9]
+2022-06-05 11:44:33,052 — INFO — __CollectVietlottPage:87 — The raw Result: 04
+2022-06-05 11:44:33,052 — INFO — __CollectVietlottPage:88 — The date 17/11/2021: [0, 4]
+2022-06-05 11:44:33,052 — INFO — __CollectVietlottPage:87 — The raw Result: 03
+2022-06-05 11:44:33,052 — INFO — __CollectVietlottPage:88 — The date 14/11/2021: [0, 3]
+2022-06-05 11:44:33,053 — INFO — __CollectVietlottPage:87 — The raw Result: 11
+2022-06-05 11:44:33,053 — INFO — __CollectVietlottPage:88 — The date 12/11/2021: [1, 1]
+2022-06-05 11:44:33,095 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:44:33,544 — INFO — __CollectVietlottPage:87 — The raw Result: 17
+2022-06-05 11:44:33,545 — INFO — __CollectVietlottPage:88 — The date 10/11/2021: [1, 7]
+2022-06-05 11:44:33,545 — INFO — __CollectVietlottPage:87 — The raw Result: 05
+2022-06-05 11:44:33,546 — INFO — __CollectVietlottPage:88 — The date 07/11/2021: [0, 5]
+2022-06-05 11:44:33,547 — INFO — __CollectVietlottPage:87 — The raw Result: 10
+2022-06-05 11:44:33,547 — INFO — __CollectVietlottPage:88 — The date 05/11/2021: [1, 0]
+2022-06-05 11:44:33,548 — INFO — __CollectVietlottPage:87 — The raw Result: 03
+2022-06-05 11:44:33,548 — INFO — __CollectVietlottPage:88 — The date 03/11/2021: [0, 3]
+2022-06-05 11:44:33,548 — INFO — __CollectVietlottPage:87 — The raw Result: 09
+2022-06-05 11:44:33,548 — INFO — __CollectVietlottPage:88 — The date 31/10/2021: [0, 9]
+2022-06-05 11:44:33,549 — INFO — __CollectVietlottPage:87 — The raw Result: 17
+2022-06-05 11:44:33,549 — INFO — __CollectVietlottPage:88 — The date 29/10/2021: [1, 7]
+2022-06-05 11:44:33,550 — INFO — __CollectVietlottPage:87 — The raw Result: 13
+2022-06-05 11:44:33,550 — INFO — __CollectVietlottPage:88 — The date 27/10/2021: [1, 3]
+2022-06-05 11:44:33,550 — INFO — __CollectVietlottPage:87 — The raw Result: 06
+2022-06-05 11:44:33,550 — INFO — __CollectVietlottPage:88 — The date 24/10/2021: [0, 6]
+2022-06-05 11:44:33,608 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:44:34,010 — INFO — __CollectVietlottPage:87 — The raw Result: 03
+2022-06-05 11:44:34,010 — INFO — __CollectVietlottPage:88 — The date 22/10/2021: [0, 3]
+2022-06-05 11:44:34,011 — INFO — __CollectVietlottPage:87 — The raw Result: 05
+2022-06-05 11:44:34,011 — INFO — __CollectVietlottPage:88 — The date 20/10/2021: [0, 5]
+2022-06-05 11:44:34,012 — INFO — __CollectVietlottPage:87 — The raw Result: 04
+2022-06-05 11:44:34,012 — INFO — __CollectVietlottPage:88 — The date 17/10/2021: [0, 4]
+2022-06-05 11:44:34,012 — INFO — __CollectVietlottPage:87 — The raw Result: 05
+2022-06-05 11:44:34,012 — INFO — __CollectVietlottPage:88 — The date 15/10/2021: [0, 5]
+2022-06-05 11:44:34,013 — INFO — __CollectVietlottPage:87 — The raw Result: 20
+2022-06-05 11:44:34,013 — INFO — __CollectVietlottPage:88 — The date 13/10/2021: [2, 0]
+2022-06-05 11:44:34,013 — INFO — __CollectVietlottPage:87 — The raw Result: 03
+2022-06-05 11:44:34,013 — INFO — __CollectVietlottPage:88 — The date 10/10/2021: [0, 3]
+2022-06-05 11:44:34,014 — INFO — __CollectVietlottPage:87 — The raw Result: 04
+2022-06-05 11:44:34,014 — INFO — __CollectVietlottPage:88 — The date 08/10/2021: [0, 4]
+2022-06-05 11:44:34,014 — INFO — __CollectVietlottPage:87 — The raw Result: 09
+2022-06-05 11:44:34,014 — INFO — __CollectVietlottPage:88 — The date 06/10/2021: [0, 9]
+2022-06-05 11:44:34,061 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:44:34,526 — INFO — __CollectVietlottPage:87 — The raw Result: 06
+2022-06-05 11:44:34,526 — INFO — __CollectVietlottPage:88 — The date 03/10/2021: [0, 6]
+2022-06-05 11:44:34,527 — INFO — __CollectVietlottPage:87 — The raw Result: 11
+2022-06-05 11:44:34,527 — INFO — __CollectVietlottPage:88 — The date 01/10/2021: [1, 1]
+2022-06-05 11:44:34,527 — INFO — __CollectVietlottPage:87 — The raw Result: 06
+2022-06-05 11:44:34,528 — INFO — __CollectVietlottPage:88 — The date 29/09/2021: [0, 6]
+2022-06-05 11:44:34,528 — INFO — __CollectVietlottPage:87 — The raw Result: 13
+2022-06-05 11:44:34,528 — INFO — __CollectVietlottPage:88 — The date 26/09/2021: [1, 3]
+2022-06-05 11:44:34,529 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:44:34,529 — INFO — __CollectVietlottPage:88 — The date 24/09/2021: [0, 1]
+2022-06-05 11:44:34,529 — INFO — __CollectVietlottPage:87 — The raw Result: 05
+2022-06-05 11:44:34,529 — INFO — __CollectVietlottPage:88 — The date 22/09/2021: [0, 5]
+2022-06-05 11:44:34,530 — INFO — __CollectVietlottPage:87 — The raw Result: 06
+2022-06-05 11:44:34,530 — INFO — __CollectVietlottPage:88 — The date 19/09/2021: [0, 6]
+2022-06-05 11:44:34,530 — INFO — __CollectVietlottPage:87 — The raw Result: 06
+2022-06-05 11:44:34,530 — INFO — __CollectVietlottPage:88 — The date 17/09/2021: [0, 6]
+2022-06-05 11:44:34,572 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:44:35,060 — INFO — __CollectVietlottPage:87 — The raw Result: 11
+2022-06-05 11:44:35,060 — INFO — __CollectVietlottPage:88 — The date 15/09/2021: [1, 1]
+2022-06-05 11:44:35,061 — INFO — __CollectVietlottPage:87 — The raw Result: 04
+2022-06-05 11:44:35,061 — INFO — __CollectVietlottPage:88 — The date 12/09/2021: [0, 4]
+2022-06-05 11:44:35,061 — INFO — __CollectVietlottPage:87 — The raw Result: 10
+2022-06-05 11:44:35,061 — INFO — __CollectVietlottPage:88 — The date 10/09/2021: [1, 0]
+2022-06-05 11:44:35,062 — INFO — __CollectVietlottPage:87 — The raw Result: 04
+2022-06-05 11:44:35,062 — INFO — __CollectVietlottPage:88 — The date 08/09/2021: [0, 4]
+2022-06-05 11:44:35,062 — INFO — __CollectVietlottPage:87 — The raw Result: 15
+2022-06-05 11:44:35,062 — INFO — __CollectVietlottPage:88 — The date 05/09/2021: [1, 5]
+2022-06-05 11:44:35,063 — INFO — __CollectVietlottPage:87 — The raw Result: 06
+2022-06-05 11:44:35,063 — INFO — __CollectVietlottPage:88 — The date 03/09/2021: [0, 6]
+2022-06-05 11:44:35,063 — INFO — __CollectVietlottPage:87 — The raw Result: 06
+2022-06-05 11:44:35,064 — INFO — __CollectVietlottPage:88 — The date 01/09/2021: [0, 6]
+2022-06-05 11:44:35,064 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:44:35,064 — INFO — __CollectVietlottPage:88 — The date 29/08/2021: [0, 1]
+2022-06-05 11:44:35,104 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:44:35,515 — INFO — __CollectVietlottPage:87 — The raw Result: 04
+2022-06-05 11:44:35,515 — INFO — __CollectVietlottPage:88 — The date 27/08/2021: [0, 4]
+2022-06-05 11:44:35,515 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:44:35,516 — INFO — __CollectVietlottPage:88 — The date 25/08/2021: [0, 1]
+2022-06-05 11:44:35,516 — INFO — __CollectVietlottPage:87 — The raw Result: 06
+2022-06-05 11:44:35,516 — INFO — __CollectVietlottPage:88 — The date 22/08/2021: [0, 6]
+2022-06-05 11:44:35,517 — INFO — __CollectVietlottPage:87 — The raw Result: 04
+2022-06-05 11:44:35,517 — INFO — __CollectVietlottPage:88 — The date 20/08/2021: [0, 4]
+2022-06-05 11:44:35,517 — INFO — __CollectVietlottPage:87 — The raw Result: 10
+2022-06-05 11:44:35,517 — INFO — __CollectVietlottPage:88 — The date 18/08/2021: [1, 0]
+2022-06-05 11:44:35,518 — INFO — __CollectVietlottPage:87 — The raw Result: 19
+2022-06-05 11:44:35,518 — INFO — __CollectVietlottPage:88 — The date 23/07/2021: [1, 9]
+2022-06-05 11:44:35,518 — INFO — __CollectVietlottPage:87 — The raw Result: 08
+2022-06-05 11:44:35,518 — INFO — __CollectVietlottPage:88 — The date 21/07/2021: [0, 8]
+2022-06-05 11:44:35,519 — INFO — __CollectVietlottPage:87 — The raw Result: 03
+2022-06-05 11:44:35,519 — INFO — __CollectVietlottPage:88 — The date 18/07/2021: [0, 3]
+2022-06-05 11:44:35,562 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:44:35,963 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:44:35,963 — INFO — __CollectVietlottPage:88 — The date 16/07/2021: [0, 1]
+2022-06-05 11:44:35,964 — INFO — __CollectVietlottPage:87 — The raw Result: 04
+2022-06-05 11:44:35,964 — INFO — __CollectVietlottPage:88 — The date 14/07/2021: [0, 4]
+2022-06-05 11:44:35,965 — INFO — __CollectVietlottPage:87 — The raw Result: 02
+2022-06-05 11:44:35,965 — INFO — __CollectVietlottPage:88 — The date 11/07/2021: [0, 2]
+2022-06-05 11:44:35,966 — INFO — __CollectVietlottPage:87 — The raw Result: 04
+2022-06-05 11:44:35,966 — INFO — __CollectVietlottPage:88 — The date 09/07/2021: [0, 4]
+2022-06-05 11:44:35,966 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:44:35,967 — INFO — __CollectVietlottPage:88 — The date 07/07/2021: [0, 1]
+2022-06-05 11:44:35,967 — INFO — __CollectVietlottPage:87 — The raw Result: 03
+2022-06-05 11:44:35,967 — INFO — __CollectVietlottPage:88 — The date 04/07/2021: [0, 3]
+2022-06-05 11:44:35,968 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:44:35,968 — INFO — __CollectVietlottPage:88 — The date 02/07/2021: [0, 1]
+2022-06-05 11:44:35,968 — INFO — __CollectVietlottPage:87 — The raw Result: 02
+2022-06-05 11:44:35,968 — INFO — __CollectVietlottPage:88 — The date 30/06/2021: [0, 2]
+2022-06-05 11:44:36,009 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:44:36,403 — INFO — __CollectVietlottPage:87 — The raw Result: 05
+2022-06-05 11:44:36,403 — INFO — __CollectVietlottPage:88 — The date 27/06/2021: [0, 5]
+2022-06-05 11:44:36,403 — INFO — __CollectVietlottPage:87 — The raw Result: 03
+2022-06-05 11:44:36,404 — INFO — __CollectVietlottPage:88 — The date 25/06/2021: [0, 3]
+2022-06-05 11:44:36,404 — INFO — __CollectVietlottPage:87 — The raw Result: 04
+2022-06-05 11:44:36,404 — INFO — __CollectVietlottPage:88 — The date 23/06/2021: [0, 4]
+2022-06-05 11:44:36,405 — INFO — __CollectVietlottPage:87 — The raw Result: 10
+2022-06-05 11:44:36,405 — INFO — __CollectVietlottPage:88 — The date 20/06/2021: [1, 0]
+2022-06-05 11:44:36,405 — INFO — __CollectVietlottPage:87 — The raw Result: 10
+2022-06-05 11:44:36,405 — INFO — __CollectVietlottPage:88 — The date 18/06/2021: [1, 0]
+2022-06-05 11:44:36,406 — INFO — __CollectVietlottPage:87 — The raw Result: 11
+2022-06-05 11:44:36,406 — INFO — __CollectVietlottPage:88 — The date 16/06/2021: [1, 1]
+2022-06-05 11:44:36,406 — INFO — __CollectVietlottPage:87 — The raw Result: 03
+2022-06-05 11:44:36,406 — INFO — __CollectVietlottPage:88 — The date 13/06/2021: [0, 3]
+2022-06-05 11:44:36,407 — INFO — __CollectVietlottPage:87 — The raw Result: 08
+2022-06-05 11:44:36,407 — INFO — __CollectVietlottPage:88 — The date 11/06/2021: [0, 8]
+2022-06-05 11:44:36,449 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:44:36,820 — INFO — __CollectVietlottPage:87 — The raw Result: 02
+2022-06-05 11:44:36,820 — INFO — __CollectVietlottPage:88 — The date 09/06/2021: [0, 2]
+2022-06-05 11:44:36,821 — INFO — __CollectVietlottPage:87 — The raw Result: 05
+2022-06-05 11:44:36,821 — INFO — __CollectVietlottPage:88 — The date 06/06/2021: [0, 5]
+2022-06-05 11:44:36,821 — INFO — __CollectVietlottPage:87 — The raw Result: 19
+2022-06-05 11:44:36,821 — INFO — __CollectVietlottPage:88 — The date 04/06/2021: [1, 9]
+2022-06-05 11:44:36,822 — INFO — __CollectVietlottPage:87 — The raw Result: 10
+2022-06-05 11:44:36,822 — INFO — __CollectVietlottPage:88 — The date 02/06/2021: [1, 0]
+2022-06-05 11:44:36,822 — INFO — __CollectVietlottPage:87 — The raw Result: 07
+2022-06-05 11:44:36,822 — INFO — __CollectVietlottPage:88 — The date 30/05/2021: [0, 7]
+2022-06-05 11:44:36,823 — INFO — __CollectVietlottPage:87 — The raw Result: 02
+2022-06-05 11:44:36,823 — INFO — __CollectVietlottPage:88 — The date 28/05/2021: [0, 2]
+2022-06-05 11:44:36,823 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:44:36,823 — INFO — __CollectVietlottPage:88 — The date 26/05/2021: [0, 1]
+2022-06-05 11:44:36,824 — INFO — __CollectVietlottPage:87 — The raw Result: 11
+2022-06-05 11:44:36,824 — INFO — __CollectVietlottPage:88 — The date 23/05/2021: [1, 1]
+2022-06-05 11:44:36,871 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:44:37,362 — INFO — __CollectVietlottPage:87 — The raw Result: 04
+2022-06-05 11:44:37,363 — INFO — __CollectVietlottPage:88 — The date 21/05/2021: [0, 4]
+2022-06-05 11:44:37,363 — INFO — __CollectVietlottPage:87 — The raw Result: 03
+2022-06-05 11:44:37,363 — INFO — __CollectVietlottPage:88 — The date 19/05/2021: [0, 3]
+2022-06-05 11:44:37,364 — INFO — __CollectVietlottPage:87 — The raw Result: 13
+2022-06-05 11:44:37,364 — INFO — __CollectVietlottPage:88 — The date 16/05/2021: [1, 3]
+2022-06-05 11:44:37,364 — INFO — __CollectVietlottPage:87 — The raw Result: 03
+2022-06-05 11:44:37,364 — INFO — __CollectVietlottPage:88 — The date 14/05/2021: [0, 3]
+2022-06-05 11:44:37,365 — INFO — __CollectVietlottPage:87 — The raw Result: 09
+2022-06-05 11:44:37,365 — INFO — __CollectVietlottPage:88 — The date 12/05/2021: [0, 9]
+2022-06-05 11:44:37,365 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:44:37,365 — INFO — __CollectVietlottPage:88 — The date 09/05/2021: [0, 1]
+2022-06-05 11:44:37,366 — INFO — __CollectVietlottPage:87 — The raw Result: 10
+2022-06-05 11:44:37,366 — INFO — __CollectVietlottPage:88 — The date 07/05/2021: [1, 0]
+2022-06-05 11:44:37,366 — INFO — __CollectVietlottPage:87 — The raw Result: 03
+2022-06-05 11:44:37,367 — INFO — __CollectVietlottPage:88 — The date 05/05/2021: [0, 3]
+2022-06-05 11:44:37,403 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:44:37,812 — INFO — __CollectVietlottPage:87 — The raw Result: 07
+2022-06-05 11:44:37,812 — INFO — __CollectVietlottPage:88 — The date 02/05/2021: [0, 7]
+2022-06-05 11:44:37,813 — INFO — __CollectVietlottPage:87 — The raw Result: 03
+2022-06-05 11:44:37,813 — INFO — __CollectVietlottPage:88 — The date 30/04/2021: [0, 3]
+2022-06-05 11:44:37,813 — INFO — __CollectVietlottPage:87 — The raw Result: 21
+2022-06-05 11:44:37,813 — INFO — __CollectVietlottPage:88 — The date 28/04/2021: [2, 1]
+2022-06-05 11:44:37,814 — INFO — __CollectVietlottPage:87 — The raw Result: 08
+2022-06-05 11:44:37,814 — INFO — __CollectVietlottPage:88 — The date 25/04/2021: [0, 8]
+2022-06-05 11:44:37,814 — INFO — __CollectVietlottPage:87 — The raw Result: 13
+2022-06-05 11:44:37,814 — INFO — __CollectVietlottPage:88 — The date 23/04/2021: [1, 3]
+2022-06-05 11:44:37,815 — INFO — __CollectVietlottPage:87 — The raw Result: 03
+2022-06-05 11:44:37,815 — INFO — __CollectVietlottPage:88 — The date 21/04/2021: [0, 3]
+2022-06-05 11:44:37,815 — INFO — __CollectVietlottPage:87 — The raw Result: 07
+2022-06-05 11:44:37,816 — INFO — __CollectVietlottPage:88 — The date 18/04/2021: [0, 7]
+2022-06-05 11:44:37,816 — INFO — __CollectVietlottPage:87 — The raw Result: 08
+2022-06-05 11:44:37,816 — INFO — __CollectVietlottPage:88 — The date 16/04/2021: [0, 8]
+2022-06-05 11:44:37,854 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:44:38,239 — INFO — __CollectVietlottPage:87 — The raw Result: 11
+2022-06-05 11:44:38,239 — INFO — __CollectVietlottPage:88 — The date 14/04/2021: [1, 1]
+2022-06-05 11:44:38,240 — INFO — __CollectVietlottPage:87 — The raw Result: 03
+2022-06-05 11:44:38,240 — INFO — __CollectVietlottPage:88 — The date 11/04/2021: [0, 3]
+2022-06-05 11:44:38,240 — INFO — __CollectVietlottPage:87 — The raw Result: 03
+2022-06-05 11:44:38,240 — INFO — __CollectVietlottPage:88 — The date 09/04/2021: [0, 3]
+2022-06-05 11:44:38,243 — INFO — __CollectVietlottPage:87 — The raw Result: 13
+2022-06-05 11:44:38,243 — INFO — __CollectVietlottPage:88 — The date 07/04/2021: [1, 3]
+2022-06-05 11:44:38,244 — INFO — __CollectVietlottPage:87 — The raw Result: 05
+2022-06-05 11:44:38,244 — INFO — __CollectVietlottPage:88 — The date 04/04/2021: [0, 5]
+2022-06-05 11:44:38,244 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:44:38,244 — INFO — __CollectVietlottPage:88 — The date 02/04/2021: [0, 1]
+2022-06-05 11:44:38,245 — INFO — __CollectVietlottPage:87 — The raw Result: 02
+2022-06-05 11:44:38,245 — INFO — __CollectVietlottPage:88 — The date 31/03/2021: [0, 2]
+2022-06-05 11:44:38,245 — INFO — __CollectVietlottPage:87 — The raw Result: 23
+2022-06-05 11:44:38,245 — INFO — __CollectVietlottPage:88 — The date 28/03/2021: [2, 3]
+2022-06-05 11:44:38,284 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:44:38,683 — INFO — __CollectVietlottPage:87 — The raw Result: 02
+2022-06-05 11:44:38,683 — INFO — __CollectVietlottPage:88 — The date 26/03/2021: [0, 2]
+2022-06-05 11:44:38,684 — INFO — __CollectVietlottPage:87 — The raw Result: 07
+2022-06-05 11:44:38,684 — INFO — __CollectVietlottPage:88 — The date 24/03/2021: [0, 7]
+2022-06-05 11:44:38,684 — INFO — __CollectVietlottPage:87 — The raw Result: 08
+2022-06-05 11:44:38,684 — INFO — __CollectVietlottPage:88 — The date 21/03/2021: [0, 8]
+2022-06-05 11:44:38,685 — INFO — __CollectVietlottPage:87 — The raw Result: 05
+2022-06-05 11:44:38,685 — INFO — __CollectVietlottPage:88 — The date 19/03/2021: [0, 5]
+2022-06-05 11:44:38,685 — INFO — __CollectVietlottPage:87 — The raw Result: 06
+2022-06-05 11:44:38,685 — INFO — __CollectVietlottPage:88 — The date 17/03/2021: [0, 6]
+2022-06-05 11:44:38,686 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:44:38,686 — INFO — __CollectVietlottPage:88 — The date 14/03/2021: [0, 1]
+2022-06-05 11:44:38,686 — INFO — __CollectVietlottPage:87 — The raw Result: 05
+2022-06-05 11:44:38,687 — INFO — __CollectVietlottPage:88 — The date 12/03/2021: [0, 5]
+2022-06-05 11:44:38,687 — INFO — __CollectVietlottPage:87 — The raw Result: 05
+2022-06-05 11:44:38,687 — INFO — __CollectVietlottPage:88 — The date 10/03/2021: [0, 5]
+2022-06-05 11:44:38,724 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:44:39,101 — INFO — __CollectVietlottPage:87 — The raw Result: 04
+2022-06-05 11:44:39,101 — INFO — __CollectVietlottPage:88 — The date 07/03/2021: [0, 4]
+2022-06-05 11:44:39,102 — INFO — __CollectVietlottPage:87 — The raw Result: 09
+2022-06-05 11:44:39,102 — INFO — __CollectVietlottPage:88 — The date 05/03/2021: [0, 9]
+2022-06-05 11:44:39,102 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:44:39,103 — INFO — __CollectVietlottPage:88 — The date 03/03/2021: [0, 1]
+2022-06-05 11:44:39,103 — INFO — __CollectVietlottPage:87 — The raw Result: 04
+2022-06-05 11:44:39,103 — INFO — __CollectVietlottPage:88 — The date 28/02/2021: [0, 4]
+2022-06-05 11:44:39,104 — INFO — __CollectVietlottPage:87 — The raw Result: 11
+2022-06-05 11:44:39,104 — INFO — __CollectVietlottPage:88 — The date 26/02/2021: [1, 1]
+2022-06-05 11:44:39,104 — INFO — __CollectVietlottPage:87 — The raw Result: 02
+2022-06-05 11:44:39,104 — INFO — __CollectVietlottPage:88 — The date 24/02/2021: [0, 2]
+2022-06-05 11:44:39,105 — INFO — __CollectVietlottPage:87 — The raw Result: 06
+2022-06-05 11:44:39,105 — INFO — __CollectVietlottPage:88 — The date 21/02/2021: [0, 6]
+2022-06-05 11:44:39,105 — INFO — __CollectVietlottPage:87 — The raw Result: 12
+2022-06-05 11:44:39,105 — INFO — __CollectVietlottPage:88 — The date 19/02/2021: [1, 2]
+2022-06-05 11:44:39,147 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:44:39,697 — INFO — __CollectVietlottPage:87 — The raw Result: 03
+2022-06-05 11:44:39,697 — INFO — __CollectVietlottPage:88 — The date 17/02/2021: [0, 3]
+2022-06-05 11:44:39,697 — INFO — __CollectVietlottPage:87 — The raw Result: 03
+2022-06-05 11:44:39,698 — INFO — __CollectVietlottPage:88 — The date 14/02/2021: [0, 3]
+2022-06-05 11:44:39,698 — INFO — __CollectVietlottPage:87 — The raw Result: 08
+2022-06-05 11:44:39,698 — INFO — __CollectVietlottPage:88 — The date 10/02/2021: [0, 8]
+2022-06-05 11:44:39,699 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:44:39,699 — INFO — __CollectVietlottPage:88 — The date 07/02/2021: [0, 1]
+2022-06-05 11:44:39,699 — INFO — __CollectVietlottPage:87 — The raw Result: 02
+2022-06-05 11:44:39,699 — INFO — __CollectVietlottPage:88 — The date 05/02/2021: [0, 2]
+2022-06-05 11:44:39,700 — INFO — __CollectVietlottPage:87 — The raw Result: 07
+2022-06-05 11:44:39,700 — INFO — __CollectVietlottPage:88 — The date 03/02/2021: [0, 7]
+2022-06-05 11:44:39,700 — INFO — __CollectVietlottPage:87 — The raw Result: 04
+2022-06-05 11:44:39,700 — INFO — __CollectVietlottPage:88 — The date 31/01/2021: [0, 4]
+2022-06-05 11:44:39,701 — INFO — __CollectVietlottPage:87 — The raw Result: 06
+2022-06-05 11:44:39,701 — INFO — __CollectVietlottPage:88 — The date 29/01/2021: [0, 6]
+2022-06-05 11:44:39,740 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:44:40,186 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:44:40,186 — INFO — __CollectVietlottPage:88 — The date 27/01/2021: [0, 1]
+2022-06-05 11:44:40,187 — INFO — __CollectVietlottPage:87 — The raw Result: 08
+2022-06-05 11:44:40,187 — INFO — __CollectVietlottPage:88 — The date 24/01/2021: [0, 8]
+2022-06-05 11:44:40,187 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:44:40,188 — INFO — __CollectVietlottPage:88 — The date 22/01/2021: [0, 1]
+2022-06-05 11:44:40,188 — INFO — __CollectVietlottPage:87 — The raw Result: 07
+2022-06-05 11:44:40,188 — INFO — __CollectVietlottPage:88 — The date 20/01/2021: [0, 7]
+2022-06-05 11:44:40,189 — INFO — __CollectVietlottPage:87 — The raw Result: 04
+2022-06-05 11:44:40,189 — INFO — __CollectVietlottPage:88 — The date 17/01/2021: [0, 4]
+2022-06-05 11:44:40,189 — INFO — __CollectVietlottPage:87 — The raw Result: 04
+2022-06-05 11:44:40,189 — INFO — __CollectVietlottPage:88 — The date 15/01/2021: [0, 4]
+2022-06-05 11:44:40,190 — INFO — __CollectVietlottPage:87 — The raw Result: 19
+2022-06-05 11:44:40,190 — INFO — __CollectVietlottPage:88 — The date 13/01/2021: [1, 9]
+2022-06-05 11:44:40,191 — INFO — __CollectVietlottPage:87 — The raw Result: 10
+2022-06-05 11:44:40,191 — INFO — __CollectVietlottPage:88 — The date 10/01/2021: [1, 0]
+2022-06-05 11:44:40,240 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:44:40,636 — INFO — __CollectVietlottPage:87 — The raw Result: 08
+2022-06-05 11:44:40,636 — INFO — __CollectVietlottPage:88 — The date 08/01/2021: [0, 8]
+2022-06-05 11:44:40,636 — INFO — __CollectVietlottPage:87 — The raw Result: 22
+2022-06-05 11:44:40,637 — INFO — __CollectVietlottPage:88 — The date 06/01/2021: [2, 2]
+2022-06-05 11:44:40,637 — INFO — __CollectVietlottPage:87 — The raw Result: 04
+2022-06-05 11:44:40,637 — INFO — __CollectVietlottPage:88 — The date 03/01/2021: [0, 4]
+2022-06-05 11:44:40,638 — INFO — __CollectVietlottPage:87 — The raw Result: 10
+2022-06-05 11:44:40,638 — INFO — __CollectVietlottPage:88 — The date 01/01/2021: [1, 0]
+2022-06-05 11:44:40,638 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:44:40,638 — INFO — __CollectVietlottPage:88 — The date 30/12/2020: [0, 1]
+2022-06-05 11:44:40,639 — INFO — __CollectVietlottPage:87 — The raw Result: 03
+2022-06-05 11:44:40,639 — INFO — __CollectVietlottPage:88 — The date 27/12/2020: [0, 3]
+2022-06-05 11:44:40,639 — INFO — __CollectVietlottPage:87 — The raw Result: 06
+2022-06-05 11:44:40,639 — INFO — __CollectVietlottPage:88 — The date 25/12/2020: [0, 6]
+2022-06-05 11:44:40,640 — INFO — __CollectVietlottPage:87 — The raw Result: 07
+2022-06-05 11:44:40,640 — INFO — __CollectVietlottPage:88 — The date 23/12/2020: [0, 7]
+2022-06-05 11:44:40,682 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:44:41,056 — INFO — __CollectVietlottPage:87 — The raw Result: 15
+2022-06-05 11:44:41,057 — INFO — __CollectVietlottPage:88 — The date 20/12/2020: [1, 5]
+2022-06-05 11:44:41,057 — INFO — __CollectVietlottPage:87 — The raw Result: 04
+2022-06-05 11:44:41,057 — INFO — __CollectVietlottPage:88 — The date 18/12/2020: [0, 4]
+2022-06-05 11:44:41,059 — INFO — __CollectVietlottPage:87 — The raw Result: 10
+2022-06-05 11:44:41,059 — INFO — __CollectVietlottPage:88 — The date 16/12/2020: [1, 0]
+2022-06-05 11:44:41,060 — INFO — __CollectVietlottPage:87 — The raw Result: 10
+2022-06-05 11:44:41,060 — INFO — __CollectVietlottPage:88 — The date 13/12/2020: [1, 0]
+2022-06-05 11:44:41,060 — INFO — __CollectVietlottPage:87 — The raw Result: 23
+2022-06-05 11:44:41,060 — INFO — __CollectVietlottPage:88 — The date 11/12/2020: [2, 3]
+2022-06-05 11:44:41,061 — INFO — __CollectVietlottPage:87 — The raw Result: 16
+2022-06-05 11:44:41,061 — INFO — __CollectVietlottPage:88 — The date 09/12/2020: [1, 6]
+2022-06-05 11:44:41,061 — INFO — __CollectVietlottPage:87 — The raw Result: 11
+2022-06-05 11:44:41,061 — INFO — __CollectVietlottPage:88 — The date 06/12/2020: [1, 1]
+2022-06-05 11:44:41,062 — INFO — __CollectVietlottPage:87 — The raw Result: 03
+2022-06-05 11:44:41,062 — INFO — __CollectVietlottPage:88 — The date 04/12/2020: [0, 3]
+2022-06-05 11:44:41,100 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:44:41,534 — INFO — __CollectVietlottPage:87 — The raw Result: 04
+2022-06-05 11:44:41,534 — INFO — __CollectVietlottPage:88 — The date 02/12/2020: [0, 4]
+2022-06-05 11:44:41,535 — INFO — __CollectVietlottPage:87 — The raw Result: 06
+2022-06-05 11:44:41,535 — INFO — __CollectVietlottPage:88 — The date 29/11/2020: [0, 6]
+2022-06-05 11:44:41,535 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:44:41,536 — INFO — __CollectVietlottPage:88 — The date 27/11/2020: [0, 1]
+2022-06-05 11:44:41,536 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:44:41,536 — INFO — __CollectVietlottPage:88 — The date 25/11/2020: [0, 1]
+2022-06-05 11:44:41,537 — INFO — __CollectVietlottPage:87 — The raw Result: 09
+2022-06-05 11:44:41,537 — INFO — __CollectVietlottPage:88 — The date 22/11/2020: [0, 9]
+2022-06-05 11:44:41,537 — INFO — __CollectVietlottPage:87 — The raw Result: 02
+2022-06-05 11:44:41,537 — INFO — __CollectVietlottPage:88 — The date 20/11/2020: [0, 2]
+2022-06-05 11:44:41,538 — INFO — __CollectVietlottPage:87 — The raw Result: 18
+2022-06-05 11:44:41,538 — INFO — __CollectVietlottPage:88 — The date 18/11/2020: [1, 8]
+2022-06-05 11:44:41,538 — INFO — __CollectVietlottPage:87 — The raw Result: 14
+2022-06-05 11:44:41,538 — INFO — __CollectVietlottPage:88 — The date 15/11/2020: [1, 4]
+2022-06-05 11:44:41,583 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:44:42,060 — INFO — __CollectVietlottPage:87 — The raw Result: 08
+2022-06-05 11:44:42,060 — INFO — __CollectVietlottPage:88 — The date 13/11/2020: [0, 8]
+2022-06-05 11:44:42,061 — INFO — __CollectVietlottPage:87 — The raw Result: 04
+2022-06-05 11:44:42,061 — INFO — __CollectVietlottPage:88 — The date 11/11/2020: [0, 4]
+2022-06-05 11:44:42,061 — INFO — __CollectVietlottPage:87 — The raw Result: 03
+2022-06-05 11:44:42,061 — INFO — __CollectVietlottPage:88 — The date 08/11/2020: [0, 3]
+2022-06-05 11:44:42,062 — INFO — __CollectVietlottPage:87 — The raw Result: 19
+2022-06-05 11:44:42,062 — INFO — __CollectVietlottPage:88 — The date 06/11/2020: [1, 9]
+2022-06-05 11:44:42,062 — INFO — __CollectVietlottPage:87 — The raw Result: 03
+2022-06-05 11:44:42,063 — INFO — __CollectVietlottPage:88 — The date 04/11/2020: [0, 3]
+2022-06-05 11:44:42,063 — INFO — __CollectVietlottPage:87 — The raw Result: 06
+2022-06-05 11:44:42,063 — INFO — __CollectVietlottPage:88 — The date 01/11/2020: [0, 6]
+2022-06-05 11:44:42,064 — INFO — __CollectVietlottPage:87 — The raw Result: 04
+2022-06-05 11:44:42,064 — INFO — __CollectVietlottPage:88 — The date 30/10/2020: [0, 4]
+2022-06-05 11:44:42,064 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:44:42,064 — INFO — __CollectVietlottPage:88 — The date 28/10/2020: [0, 1]
+2022-06-05 11:44:42,100 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:44:42,534 — INFO — __CollectVietlottPage:87 — The raw Result: 11
+2022-06-05 11:44:42,534 — INFO — __CollectVietlottPage:88 — The date 25/10/2020: [1, 1]
+2022-06-05 11:44:42,534 — INFO — __CollectVietlottPage:87 — The raw Result: 05
+2022-06-05 11:44:42,534 — INFO — __CollectVietlottPage:88 — The date 23/10/2020: [0, 5]
+2022-06-05 11:44:42,535 — INFO — __CollectVietlottPage:87 — The raw Result: 04
+2022-06-05 11:44:42,535 — INFO — __CollectVietlottPage:88 — The date 21/10/2020: [0, 4]
+2022-06-05 11:44:42,535 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:44:42,535 — INFO — __CollectVietlottPage:88 — The date 18/10/2020: [0, 1]
+2022-06-05 11:44:42,536 — INFO — __CollectVietlottPage:87 — The raw Result: 04
+2022-06-05 11:44:42,536 — INFO — __CollectVietlottPage:88 — The date 16/10/2020: [0, 4]
+2022-06-05 11:44:42,537 — INFO — __CollectVietlottPage:87 — The raw Result: 04
+2022-06-05 11:44:42,537 — INFO — __CollectVietlottPage:88 — The date 14/10/2020: [0, 4]
+2022-06-05 11:44:42,537 — INFO — __CollectVietlottPage:87 — The raw Result: 12
+2022-06-05 11:44:42,537 — INFO — __CollectVietlottPage:88 — The date 11/10/2020: [1, 2]
+2022-06-05 11:44:42,538 — INFO — __CollectVietlottPage:87 — The raw Result: 15
+2022-06-05 11:44:42,538 — INFO — __CollectVietlottPage:88 — The date 09/10/2020: [1, 5]
+2022-06-05 11:44:42,581 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:44:42,957 — INFO — __CollectVietlottPage:87 — The raw Result: 13
+2022-06-05 11:44:42,957 — INFO — __CollectVietlottPage:88 — The date 07/10/2020: [1, 3]
+2022-06-05 11:44:42,957 — INFO — __CollectVietlottPage:87 — The raw Result: 09
+2022-06-05 11:44:42,957 — INFO — __CollectVietlottPage:88 — The date 04/10/2020: [0, 9]
+2022-06-05 11:44:42,959 — INFO — __CollectVietlottPage:87 — The raw Result: 09
+2022-06-05 11:44:42,959 — INFO — __CollectVietlottPage:88 — The date 02/10/2020: [0, 9]
+2022-06-05 11:44:42,960 — INFO — __CollectVietlottPage:87 — The raw Result: 02
+2022-06-05 11:44:42,960 — INFO — __CollectVietlottPage:88 — The date 30/09/2020: [0, 2]
+2022-06-05 11:44:42,961 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:44:42,961 — INFO — __CollectVietlottPage:88 — The date 27/09/2020: [0, 1]
+2022-06-05 11:44:42,961 — INFO — __CollectVietlottPage:87 — The raw Result: 14
+2022-06-05 11:44:42,961 — INFO — __CollectVietlottPage:88 — The date 25/09/2020: [1, 4]
+2022-06-05 11:44:42,962 — INFO — __CollectVietlottPage:87 — The raw Result: 02
+2022-06-05 11:44:42,962 — INFO — __CollectVietlottPage:88 — The date 23/09/2020: [0, 2]
+2022-06-05 11:44:42,962 — INFO — __CollectVietlottPage:87 — The raw Result: 05
+2022-06-05 11:44:42,962 — INFO — __CollectVietlottPage:88 — The date 20/09/2020: [0, 5]
+2022-06-05 11:44:43,001 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:44:43,393 — INFO — __CollectVietlottPage:87 — The raw Result: 10
+2022-06-05 11:44:43,393 — INFO — __CollectVietlottPage:88 — The date 18/09/2020: [1, 0]
+2022-06-05 11:44:43,393 — INFO — __CollectVietlottPage:87 — The raw Result: 05
+2022-06-05 11:44:43,393 — INFO — __CollectVietlottPage:88 — The date 16/09/2020: [0, 5]
+2022-06-05 11:44:43,394 — INFO — __CollectVietlottPage:87 — The raw Result: 20
+2022-06-05 11:44:43,394 — INFO — __CollectVietlottPage:88 — The date 13/09/2020: [2, 0]
+2022-06-05 11:44:43,394 — INFO — __CollectVietlottPage:87 — The raw Result: 04
+2022-06-05 11:44:43,394 — INFO — __CollectVietlottPage:88 — The date 11/09/2020: [0, 4]
+2022-06-05 11:44:43,395 — INFO — __CollectVietlottPage:87 — The raw Result: 19
+2022-06-05 11:44:43,395 — INFO — __CollectVietlottPage:88 — The date 09/09/2020: [1, 9]
+2022-06-05 11:44:43,395 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:44:43,395 — INFO — __CollectVietlottPage:88 — The date 06/09/2020: [0, 1]
+2022-06-05 11:44:43,396 — INFO — __CollectVietlottPage:87 — The raw Result: 07
+2022-06-05 11:44:43,396 — INFO — __CollectVietlottPage:88 — The date 04/09/2020: [0, 7]
+2022-06-05 11:44:43,396 — INFO — __CollectVietlottPage:87 — The raw Result: 08
+2022-06-05 11:44:43,397 — INFO — __CollectVietlottPage:88 — The date 02/09/2020: [0, 8]
+2022-06-05 11:44:43,452 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:44:45,986 — INFO — __CollectVietlottPage:87 — The raw Result: 06
+2022-06-05 11:44:45,986 — INFO — __CollectVietlottPage:88 — The date 30/08/2020: [0, 6]
+2022-06-05 11:44:45,987 — INFO — __CollectVietlottPage:87 — The raw Result: 10
+2022-06-05 11:44:45,987 — INFO — __CollectVietlottPage:88 — The date 28/08/2020: [1, 0]
+2022-06-05 11:44:45,987 — INFO — __CollectVietlottPage:87 — The raw Result: 02
+2022-06-05 11:44:45,988 — INFO — __CollectVietlottPage:88 — The date 26/08/2020: [0, 2]
+2022-06-05 11:44:45,988 — INFO — __CollectVietlottPage:87 — The raw Result: 10
+2022-06-05 11:44:45,988 — INFO — __CollectVietlottPage:88 — The date 23/08/2020: [1, 0]
+2022-06-05 11:44:45,989 — INFO — __CollectVietlottPage:87 — The raw Result: 07
+2022-06-05 11:44:45,989 — INFO — __CollectVietlottPage:88 — The date 21/08/2020: [0, 7]
+2022-06-05 11:44:45,989 — INFO — __CollectVietlottPage:87 — The raw Result: 07
+2022-06-05 11:44:45,989 — INFO — __CollectVietlottPage:88 — The date 19/08/2020: [0, 7]
+2022-06-05 11:44:45,990 — INFO — __CollectVietlottPage:87 — The raw Result: 02
+2022-06-05 11:44:45,990 — INFO — __CollectVietlottPage:88 — The date 16/08/2020: [0, 2]
+2022-06-05 11:44:45,990 — INFO — __CollectVietlottPage:87 — The raw Result: 09
+2022-06-05 11:44:45,990 — INFO — __CollectVietlottPage:88 — The date 14/08/2020: [0, 9]
+2022-06-05 11:44:46,029 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:44:46,545 — INFO — __CollectVietlottPage:87 — The raw Result: 04
+2022-06-05 11:44:46,545 — INFO — __CollectVietlottPage:88 — The date 24/07/2020: [0, 4]
+2022-06-05 11:44:46,546 — INFO — __CollectVietlottPage:87 — The raw Result: 09
+2022-06-05 11:44:46,546 — INFO — __CollectVietlottPage:88 — The date 22/07/2020: [0, 9]
+2022-06-05 11:44:46,546 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:44:46,546 — INFO — __CollectVietlottPage:88 — The date 19/07/2020: [0, 1]
+2022-06-05 11:44:46,547 — INFO — __CollectVietlottPage:87 — The raw Result: 04
+2022-06-05 11:44:46,547 — INFO — __CollectVietlottPage:88 — The date 17/07/2020: [0, 4]
+2022-06-05 11:44:46,547 — INFO — __CollectVietlottPage:87 — The raw Result: 10
+2022-06-05 11:44:46,547 — INFO — __CollectVietlottPage:88 — The date 15/07/2020: [1, 0]
+2022-06-05 11:44:46,548 — INFO — __CollectVietlottPage:87 — The raw Result: 02
+2022-06-05 11:44:46,548 — INFO — __CollectVietlottPage:88 — The date 12/07/2020: [0, 2]
+2022-06-05 11:44:46,548 — INFO — __CollectVietlottPage:87 — The raw Result: 18
+2022-06-05 11:44:46,549 — INFO — __CollectVietlottPage:88 — The date 10/07/2020: [1, 8]
+2022-06-05 11:44:46,549 — INFO — __CollectVietlottPage:87 — The raw Result: 14
+2022-06-05 11:44:46,549 — INFO — __CollectVietlottPage:88 — The date 08/07/2020: [1, 4]
+2022-06-05 11:44:46,589 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:44:46,953 — INFO — __CollectVietlottPage:87 — The raw Result: 04
+2022-06-05 11:44:46,954 — INFO — __CollectVietlottPage:88 — The date 24/07/2020: [0, 4]
+2022-06-05 11:44:46,954 — INFO — __CollectVietlottPage:87 — The raw Result: 09
+2022-06-05 11:44:46,954 — INFO — __CollectVietlottPage:88 — The date 22/07/2020: [0, 9]
+2022-06-05 11:44:46,955 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:44:46,955 — INFO — __CollectVietlottPage:88 — The date 19/07/2020: [0, 1]
+2022-06-05 11:44:46,955 — INFO — __CollectVietlottPage:87 — The raw Result: 04
+2022-06-05 11:44:46,955 — INFO — __CollectVietlottPage:88 — The date 17/07/2020: [0, 4]
+2022-06-05 11:44:46,956 — INFO — __CollectVietlottPage:87 — The raw Result: 10
+2022-06-05 11:44:46,956 — INFO — __CollectVietlottPage:88 — The date 15/07/2020: [1, 0]
+2022-06-05 11:44:46,956 — INFO — __CollectVietlottPage:87 — The raw Result: 02
+2022-06-05 11:44:46,956 — INFO — __CollectVietlottPage:88 — The date 12/07/2020: [0, 2]
+2022-06-05 11:44:46,957 — INFO — __CollectVietlottPage:87 — The raw Result: 18
+2022-06-05 11:44:46,957 — INFO — __CollectVietlottPage:88 — The date 10/07/2020: [1, 8]
+2022-06-05 11:44:46,957 — INFO — __CollectVietlottPage:87 — The raw Result: 14
+2022-06-05 11:44:46,957 — INFO — __CollectVietlottPage:88 — The date 08/07/2020: [1, 4]
+2022-06-05 11:44:46,997 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:44:47,423 — INFO — __CollectVietlottPage:87 — The raw Result: 05
+2022-06-05 11:44:47,423 — INFO — __CollectVietlottPage:88 — The date 05/07/2020: [0, 5]
+2022-06-05 11:44:47,424 — INFO — __CollectVietlottPage:87 — The raw Result: 04
+2022-06-05 11:44:47,424 — INFO — __CollectVietlottPage:88 — The date 03/07/2020: [0, 4]
+2022-06-05 11:44:47,424 — INFO — __CollectVietlottPage:87 — The raw Result: 10
+2022-06-05 11:44:47,424 — INFO — __CollectVietlottPage:88 — The date 01/07/2020: [1, 0]
+2022-06-05 11:44:47,427 — INFO — __CollectVietlottPage:87 — The raw Result: 04
+2022-06-05 11:44:47,427 — INFO — __CollectVietlottPage:88 — The date 28/06/2020: [0, 4]
+2022-06-05 11:44:47,427 — INFO — __CollectVietlottPage:87 — The raw Result: 09
+2022-06-05 11:44:47,428 — INFO — __CollectVietlottPage:88 — The date 26/06/2020: [0, 9]
+2022-06-05 11:44:47,428 — INFO — __CollectVietlottPage:87 — The raw Result: 07
+2022-06-05 11:44:47,428 — INFO — __CollectVietlottPage:88 — The date 24/06/2020: [0, 7]
+2022-06-05 11:44:47,429 — INFO — __CollectVietlottPage:87 — The raw Result: 07
+2022-06-05 11:44:47,429 — INFO — __CollectVietlottPage:88 — The date 21/06/2020: [0, 7]
+2022-06-05 11:44:47,429 — INFO — __CollectVietlottPage:87 — The raw Result: 04
+2022-06-05 11:44:47,429 — INFO — __CollectVietlottPage:88 — The date 19/06/2020: [0, 4]
+2022-06-05 11:44:47,474 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:44:47,860 — INFO — __CollectVietlottPage:87 — The raw Result: 07
+2022-06-05 11:44:47,860 — INFO — __CollectVietlottPage:88 — The date 17/06/2020: [0, 7]
+2022-06-05 11:44:47,861 — INFO — __CollectVietlottPage:87 — The raw Result: 19
+2022-06-05 11:44:47,861 — INFO — __CollectVietlottPage:88 — The date 14/06/2020: [1, 9]
+2022-06-05 11:44:47,861 — INFO — __CollectVietlottPage:87 — The raw Result: 05
+2022-06-05 11:44:47,861 — INFO — __CollectVietlottPage:88 — The date 12/06/2020: [0, 5]
+2022-06-05 11:44:47,862 — INFO — __CollectVietlottPage:87 — The raw Result: 02
+2022-06-05 11:44:47,862 — INFO — __CollectVietlottPage:88 — The date 10/06/2020: [0, 2]
+2022-06-05 11:44:47,862 — INFO — __CollectVietlottPage:87 — The raw Result: 06
+2022-06-05 11:44:47,862 — INFO — __CollectVietlottPage:88 — The date 07/06/2020: [0, 6]
+2022-06-05 11:44:47,863 — INFO — __CollectVietlottPage:87 — The raw Result: 10
+2022-06-05 11:44:47,863 — INFO — __CollectVietlottPage:88 — The date 05/06/2020: [1, 0]
+2022-06-05 11:44:47,863 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:44:47,863 — INFO — __CollectVietlottPage:88 — The date 03/06/2020: [0, 1]
+2022-06-05 11:44:47,864 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:44:47,864 — INFO — __CollectVietlottPage:88 — The date 31/05/2020: [0, 1]
+2022-06-05 11:44:47,904 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:44:48,332 — INFO — __CollectVietlottPage:87 — The raw Result: 04
+2022-06-05 11:44:48,332 — INFO — __CollectVietlottPage:88 — The date 29/05/2020: [0, 4]
+2022-06-05 11:44:48,333 — INFO — __CollectVietlottPage:87 — The raw Result: 06
+2022-06-05 11:44:48,333 — INFO — __CollectVietlottPage:88 — The date 27/05/2020: [0, 6]
+2022-06-05 11:44:48,333 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:44:48,333 — INFO — __CollectVietlottPage:88 — The date 24/05/2020: [0, 1]
+2022-06-05 11:44:48,334 — INFO — __CollectVietlottPage:87 — The raw Result: 03
+2022-06-05 11:44:48,334 — INFO — __CollectVietlottPage:88 — The date 22/05/2020: [0, 3]
+2022-06-05 11:44:48,334 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:44:48,334 — INFO — __CollectVietlottPage:88 — The date 20/05/2020: [0, 1]
+2022-06-05 11:44:48,335 — INFO — __CollectVietlottPage:87 — The raw Result: 02
+2022-06-05 11:44:48,335 — INFO — __CollectVietlottPage:88 — The date 17/05/2020: [0, 2]
+2022-06-05 11:44:48,336 — INFO — __CollectVietlottPage:87 — The raw Result: 03
+2022-06-05 11:44:48,336 — INFO — __CollectVietlottPage:88 — The date 15/05/2020: [0, 3]
+2022-06-05 11:44:48,336 — INFO — __CollectVietlottPage:87 — The raw Result: 06
+2022-06-05 11:44:48,336 — INFO — __CollectVietlottPage:88 — The date 13/05/2020: [0, 6]
+2022-06-05 11:44:48,380 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:44:48,885 — INFO — __CollectVietlottPage:87 — The raw Result: 07
+2022-06-05 11:44:48,885 — INFO — __CollectVietlottPage:88 — The date 10/05/2020: [0, 7]
+2022-06-05 11:44:48,886 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:44:48,886 — INFO — __CollectVietlottPage:88 — The date 08/05/2020: [0, 1]
+2022-06-05 11:44:48,886 — INFO — __CollectVietlottPage:87 — The raw Result: 03
+2022-06-05 11:44:48,886 — INFO — __CollectVietlottPage:88 — The date 06/05/2020: [0, 3]
+2022-06-05 11:44:48,887 — INFO — __CollectVietlottPage:87 — The raw Result: 05
+2022-06-05 11:44:48,887 — INFO — __CollectVietlottPage:88 — The date 03/05/2020: [0, 5]
+2022-06-05 11:44:48,887 — INFO — __CollectVietlottPage:87 — The raw Result: 06
+2022-06-05 11:44:48,887 — INFO — __CollectVietlottPage:88 — The date 01/05/2020: [0, 6]
+2022-06-05 11:44:48,888 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:44:48,888 — INFO — __CollectVietlottPage:88 — The date 29/04/2020: [0, 1]
+2022-06-05 11:44:48,888 — INFO — __CollectVietlottPage:87 — The raw Result: 05
+2022-06-05 11:44:48,889 — INFO — __CollectVietlottPage:88 — The date 26/04/2020: [0, 5]
+2022-06-05 11:44:48,889 — INFO — __CollectVietlottPage:87 — The raw Result: 10
+2022-06-05 11:44:48,889 — INFO — __CollectVietlottPage:88 — The date 24/04/2020: [1, 0]
+2022-06-05 11:44:48,932 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:44:49,300 — INFO — __CollectVietlottPage:87 — The raw Result: 07
+2022-06-05 11:44:49,300 — INFO — __CollectVietlottPage:88 — The date 29/03/2020: [0, 7]
+2022-06-05 11:44:49,300 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:44:49,300 — INFO — __CollectVietlottPage:88 — The date 27/03/2020: [0, 1]
+2022-06-05 11:44:49,301 — INFO — __CollectVietlottPage:87 — The raw Result: 26
+2022-06-05 11:44:49,301 — INFO — __CollectVietlottPage:88 — The date 25/03/2020: [2, 6]
+2022-06-05 11:44:49,301 — INFO — __CollectVietlottPage:87 — The raw Result: 02
+2022-06-05 11:44:49,302 — INFO — __CollectVietlottPage:88 — The date 22/03/2020: [0, 2]
+2022-06-05 11:44:49,302 — INFO — __CollectVietlottPage:87 — The raw Result: 08
+2022-06-05 11:44:49,302 — INFO — __CollectVietlottPage:88 — The date 20/03/2020: [0, 8]
+2022-06-05 11:44:49,303 — INFO — __CollectVietlottPage:87 — The raw Result: 06
+2022-06-05 11:44:49,303 — INFO — __CollectVietlottPage:88 — The date 18/03/2020: [0, 6]
+2022-06-05 11:44:49,303 — INFO — __CollectVietlottPage:87 — The raw Result: 04
+2022-06-05 11:44:49,303 — INFO — __CollectVietlottPage:88 — The date 15/03/2020: [0, 4]
+2022-06-05 11:44:49,304 — INFO — __CollectVietlottPage:87 — The raw Result: 08
+2022-06-05 11:44:49,304 — INFO — __CollectVietlottPage:88 — The date 13/03/2020: [0, 8]
+2022-06-05 11:44:49,346 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:44:49,720 — INFO — __CollectVietlottPage:87 — The raw Result: 12
+2022-06-05 11:44:49,720 — INFO — __CollectVietlottPage:88 — The date 11/03/2020: [1, 2]
+2022-06-05 11:44:49,720 — INFO — __CollectVietlottPage:87 — The raw Result: 03
+2022-06-05 11:44:49,720 — INFO — __CollectVietlottPage:88 — The date 08/03/2020: [0, 3]
+2022-06-05 11:44:49,721 — INFO — __CollectVietlottPage:87 — The raw Result: 06
+2022-06-05 11:44:49,721 — INFO — __CollectVietlottPage:88 — The date 06/03/2020: [0, 6]
+2022-06-05 11:44:49,721 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:44:49,721 — INFO — __CollectVietlottPage:88 — The date 04/03/2020: [0, 1]
+2022-06-05 11:44:49,722 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:44:49,722 — INFO — __CollectVietlottPage:88 — The date 01/03/2020: [0, 1]
+2022-06-05 11:44:49,722 — INFO — __CollectVietlottPage:87 — The raw Result: 02
+2022-06-05 11:44:49,723 — INFO — __CollectVietlottPage:88 — The date 28/02/2020: [0, 2]
+2022-06-05 11:44:49,723 — INFO — __CollectVietlottPage:87 — The raw Result: 02
+2022-06-05 11:44:49,723 — INFO — __CollectVietlottPage:88 — The date 26/02/2020: [0, 2]
+2022-06-05 11:44:49,724 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:44:49,724 — INFO — __CollectVietlottPage:88 — The date 23/02/2020: [0, 1]
+2022-06-05 11:44:49,766 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:44:50,145 — INFO — __CollectVietlottPage:87 — The raw Result: 13
+2022-06-05 11:44:50,146 — INFO — __CollectVietlottPage:88 — The date 21/02/2020: [1, 3]
+2022-06-05 11:44:50,146 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:44:50,146 — INFO — __CollectVietlottPage:88 — The date 19/02/2020: [0, 1]
+2022-06-05 11:44:50,147 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:44:50,147 — INFO — __CollectVietlottPage:88 — The date 16/02/2020: [0, 1]
+2022-06-05 11:44:50,147 — INFO — __CollectVietlottPage:87 — The raw Result: 04
+2022-06-05 11:44:50,147 — INFO — __CollectVietlottPage:88 — The date 14/02/2020: [0, 4]
+2022-06-05 11:44:50,148 — INFO — __CollectVietlottPage:87 — The raw Result: 05
+2022-06-05 11:44:50,148 — INFO — __CollectVietlottPage:88 — The date 12/02/2020: [0, 5]
+2022-06-05 11:44:50,148 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:44:50,148 — INFO — __CollectVietlottPage:88 — The date 09/02/2020: [0, 1]
+2022-06-05 11:44:50,149 — INFO — __CollectVietlottPage:87 — The raw Result: 06
+2022-06-05 11:44:50,149 — INFO — __CollectVietlottPage:88 — The date 07/02/2020: [0, 6]
+2022-06-05 11:44:50,149 — INFO — __CollectVietlottPage:87 — The raw Result: 09
+2022-06-05 11:44:50,150 — INFO — __CollectVietlottPage:88 — The date 05/02/2020: [0, 9]
+2022-06-05 11:44:50,190 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:44:50,947 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:44:50,947 — INFO — __CollectVietlottPage:88 — The date 02/02/2020: [0, 1]
+2022-06-05 11:44:50,947 — INFO — __CollectVietlottPage:87 — The raw Result: 08
+2022-06-05 11:44:50,947 — INFO — __CollectVietlottPage:88 — The date 31/01/2020: [0, 8]
+2022-06-05 11:44:50,947 — INFO — __CollectVietlottPage:87 — The raw Result: 03
+2022-06-05 11:44:50,947 — INFO — __CollectVietlottPage:88 — The date 29/01/2020: [0, 3]
+2022-06-05 11:44:50,947 — INFO — __CollectVietlottPage:87 — The raw Result: 04
+2022-06-05 11:44:50,947 — INFO — __CollectVietlottPage:88 — The date 26/01/2020: [0, 4]
+2022-06-05 11:44:50,948 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:44:50,948 — INFO — __CollectVietlottPage:88 — The date 22/01/2020: [0, 1]
+2022-06-05 11:44:50,948 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:44:50,949 — INFO — __CollectVietlottPage:88 — The date 19/01/2020: [0, 1]
+2022-06-05 11:44:50,949 — INFO — __CollectVietlottPage:87 — The raw Result: 08
+2022-06-05 11:44:50,949 — INFO — __CollectVietlottPage:88 — The date 17/01/2020: [0, 8]
+2022-06-05 11:44:50,950 — INFO — __CollectVietlottPage:87 — The raw Result: 02
+2022-06-05 11:44:50,950 — INFO — __CollectVietlottPage:88 — The date 15/01/2020: [0, 2]
+2022-06-05 11:44:50,990 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:44:51,489 — INFO — __CollectVietlottPage:87 — The raw Result: 07
+2022-06-05 11:44:51,489 — INFO — __CollectVietlottPage:88 — The date 12/01/2020: [0, 7]
+2022-06-05 11:44:51,489 — INFO — __CollectVietlottPage:87 — The raw Result: 10
+2022-06-05 11:44:51,489 — INFO — __CollectVietlottPage:88 — The date 10/01/2020: [1, 0]
+2022-06-05 11:44:51,490 — INFO — __CollectVietlottPage:87 — The raw Result: 02
+2022-06-05 11:44:51,490 — INFO — __CollectVietlottPage:88 — The date 08/01/2020: [0, 2]
+2022-06-05 11:44:51,490 — INFO — __CollectVietlottPage:87 — The raw Result: 05
+2022-06-05 11:44:51,490 — INFO — __CollectVietlottPage:88 — The date 05/01/2020: [0, 5]
+2022-06-05 11:44:51,492 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:44:51,493 — INFO — __CollectVietlottPage:88 — The date 03/01/2020: [0, 1]
+2022-06-05 11:44:51,493 — INFO — __CollectVietlottPage:87 — The raw Result: 08
+2022-06-05 11:44:51,493 — INFO — __CollectVietlottPage:88 — The date 01/01/2020: [0, 8]
+2022-06-05 11:44:51,494 — INFO — __CollectVietlottPage:87 — The raw Result: 07
+2022-06-05 11:44:51,494 — INFO — __CollectVietlottPage:88 — The date 29/12/2019: [0, 7]
+2022-06-05 11:44:51,494 — INFO — __CollectVietlottPage:87 — The raw Result: 02
+2022-06-05 11:44:51,495 — INFO — __CollectVietlottPage:88 — The date 27/12/2019: [0, 2]
+2022-06-05 11:44:51,540 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:44:51,924 — INFO — __CollectVietlottPage:87 — The raw Result: 10
+2022-06-05 11:44:51,927 — INFO — __CollectVietlottPage:88 — The date 25/12/2019: [1, 0]
+2022-06-05 11:44:51,928 — INFO — __CollectVietlottPage:87 — The raw Result: 09
+2022-06-05 11:44:51,928 — INFO — __CollectVietlottPage:88 — The date 22/12/2019: [0, 9]
+2022-06-05 11:44:51,929 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:44:51,929 — INFO — __CollectVietlottPage:88 — The date 20/12/2019: [0, 1]
+2022-06-05 11:44:51,930 — INFO — __CollectVietlottPage:87 — The raw Result: 08
+2022-06-05 11:44:51,930 — INFO — __CollectVietlottPage:88 — The date 18/12/2019: [0, 8]
+2022-06-05 11:44:51,930 — INFO — __CollectVietlottPage:87 — The raw Result: 03
+2022-06-05 11:44:51,930 — INFO — __CollectVietlottPage:88 — The date 15/12/2019: [0, 3]
+2022-06-05 11:44:51,931 — INFO — __CollectVietlottPage:87 — The raw Result: 02
+2022-06-05 11:44:51,931 — INFO — __CollectVietlottPage:88 — The date 13/12/2019: [0, 2]
+2022-06-05 11:44:51,932 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:44:51,932 — INFO — __CollectVietlottPage:88 — The date 11/12/2019: [0, 1]
+2022-06-05 11:44:51,932 — INFO — __CollectVietlottPage:87 — The raw Result: 12
+2022-06-05 11:44:51,932 — INFO — __CollectVietlottPage:88 — The date 08/12/2019: [1, 2]
+2022-06-05 11:44:51,979 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:44:52,363 — INFO — __CollectVietlottPage:87 — The raw Result: 02
+2022-06-05 11:44:52,363 — INFO — __CollectVietlottPage:88 — The date 06/12/2019: [0, 2]
+2022-06-05 11:44:52,364 — INFO — __CollectVietlottPage:87 — The raw Result: 16
+2022-06-05 11:44:52,364 — INFO — __CollectVietlottPage:88 — The date 04/12/2019: [1, 6]
+2022-06-05 11:44:52,364 — INFO — __CollectVietlottPage:87 — The raw Result: 03
+2022-06-05 11:44:52,364 — INFO — __CollectVietlottPage:88 — The date 01/12/2019: [0, 3]
+2022-06-05 11:44:52,365 — INFO — __CollectVietlottPage:87 — The raw Result: 14
+2022-06-05 11:44:52,365 — INFO — __CollectVietlottPage:88 — The date 29/11/2019: [1, 4]
+2022-06-05 11:44:52,365 — INFO — __CollectVietlottPage:87 — The raw Result: 03
+2022-06-05 11:44:52,365 — INFO — __CollectVietlottPage:88 — The date 27/11/2019: [0, 3]
+2022-06-05 11:44:52,366 — INFO — __CollectVietlottPage:87 — The raw Result: 05
+2022-06-05 11:44:52,366 — INFO — __CollectVietlottPage:88 — The date 24/11/2019: [0, 5]
+2022-06-05 11:44:52,366 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:44:52,366 — INFO — __CollectVietlottPage:88 — The date 22/11/2019: [0, 1]
+2022-06-05 11:44:52,367 — INFO — __CollectVietlottPage:87 — The raw Result: 10
+2022-06-05 11:44:52,367 — INFO — __CollectVietlottPage:88 — The date 20/11/2019: [1, 0]
+2022-06-05 11:44:52,404 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:44:52,798 — INFO — __CollectVietlottPage:87 — The raw Result: 06
+2022-06-05 11:44:52,798 — INFO — __CollectVietlottPage:88 — The date 17/11/2019: [0, 6]
+2022-06-05 11:44:52,799 — INFO — __CollectVietlottPage:87 — The raw Result: 02
+2022-06-05 11:44:52,799 — INFO — __CollectVietlottPage:88 — The date 15/11/2019: [0, 2]
+2022-06-05 11:44:52,800 — INFO — __CollectVietlottPage:87 — The raw Result: 17
+2022-06-05 11:44:52,800 — INFO — __CollectVietlottPage:88 — The date 13/11/2019: [1, 7]
+2022-06-05 11:44:52,800 — INFO — __CollectVietlottPage:87 — The raw Result: 04
+2022-06-05 11:44:52,800 — INFO — __CollectVietlottPage:88 — The date 10/11/2019: [0, 4]
+2022-06-05 11:44:52,801 — INFO — __CollectVietlottPage:87 — The raw Result: 04
+2022-06-05 11:44:52,801 — INFO — __CollectVietlottPage:88 — The date 08/11/2019: [0, 4]
+2022-06-05 11:44:52,801 — INFO — __CollectVietlottPage:87 — The raw Result: 03
+2022-06-05 11:44:52,801 — INFO — __CollectVietlottPage:88 — The date 06/11/2019: [0, 3]
+2022-06-05 11:44:52,802 — INFO — __CollectVietlottPage:87 — The raw Result: 28
+2022-06-05 11:44:52,802 — INFO — __CollectVietlottPage:88 — The date 03/11/2019: [2, 8]
+2022-06-05 11:44:52,802 — INFO — __CollectVietlottPage:87 — The raw Result: 06
+2022-06-05 11:44:52,802 — INFO — __CollectVietlottPage:88 — The date 01/11/2019: [0, 6]
+2022-06-05 11:44:52,853 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:44:53,222 — INFO — __CollectVietlottPage:87 — The raw Result: 02
+2022-06-05 11:44:53,222 — INFO — __CollectVietlottPage:88 — The date 30/10/2019: [0, 2]
+2022-06-05 11:44:53,223 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:44:53,223 — INFO — __CollectVietlottPage:88 — The date 27/10/2019: [0, 1]
+2022-06-05 11:44:53,223 — INFO — __CollectVietlottPage:87 — The raw Result: 04
+2022-06-05 11:44:53,224 — INFO — __CollectVietlottPage:88 — The date 25/10/2019: [0, 4]
+2022-06-05 11:44:53,226 — INFO — __CollectVietlottPage:87 — The raw Result: 02
+2022-06-05 11:44:53,226 — INFO — __CollectVietlottPage:88 — The date 23/10/2019: [0, 2]
+2022-06-05 11:44:53,226 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:44:53,226 — INFO — __CollectVietlottPage:88 — The date 20/10/2019: [0, 1]
+2022-06-05 11:44:53,227 — INFO — __CollectVietlottPage:87 — The raw Result: 04
+2022-06-05 11:44:53,227 — INFO — __CollectVietlottPage:88 — The date 18/10/2019: [0, 4]
+2022-06-05 11:44:53,227 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:44:53,227 — INFO — __CollectVietlottPage:88 — The date 16/10/2019: [0, 1]
+2022-06-05 11:44:53,228 — INFO — __CollectVietlottPage:87 — The raw Result: 06
+2022-06-05 11:44:53,228 — INFO — __CollectVietlottPage:88 — The date 13/10/2019: [0, 6]
+2022-06-05 11:44:53,271 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:44:53,782 — INFO — __CollectVietlottPage:87 — The raw Result: 06
+2022-06-05 11:44:53,782 — INFO — __CollectVietlottPage:88 — The date 11/10/2019: [0, 6]
+2022-06-05 11:44:53,783 — INFO — __CollectVietlottPage:87 — The raw Result: 03
+2022-06-05 11:44:53,783 — INFO — __CollectVietlottPage:88 — The date 09/10/2019: [0, 3]
+2022-06-05 11:44:53,783 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:44:53,783 — INFO — __CollectVietlottPage:88 — The date 06/10/2019: [0, 1]
+2022-06-05 11:44:53,784 — INFO — __CollectVietlottPage:87 — The raw Result: 02
+2022-06-05 11:44:53,784 — INFO — __CollectVietlottPage:88 — The date 04/10/2019: [0, 2]
+2022-06-05 11:44:53,784 — INFO — __CollectVietlottPage:87 — The raw Result: 02
+2022-06-05 11:44:53,784 — INFO — __CollectVietlottPage:88 — The date 02/10/2019: [0, 2]
+2022-06-05 11:44:53,785 — INFO — __CollectVietlottPage:87 — The raw Result: 02
+2022-06-05 11:44:53,785 — INFO — __CollectVietlottPage:88 — The date 29/09/2019: [0, 2]
+2022-06-05 11:44:53,785 — INFO — __CollectVietlottPage:87 — The raw Result: 06
+2022-06-05 11:44:53,786 — INFO — __CollectVietlottPage:88 — The date 27/09/2019: [0, 6]
+2022-06-05 11:44:53,786 — INFO — __CollectVietlottPage:87 — The raw Result: 09
+2022-06-05 11:44:53,786 — INFO — __CollectVietlottPage:88 — The date 25/09/2019: [0, 9]
+2022-06-05 11:44:53,822 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:44:54,189 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:44:54,190 — INFO — __CollectVietlottPage:88 — The date 04/09/2019: [0, 1]
+2022-06-05 11:44:54,190 — INFO — __CollectVietlottPage:87 — The raw Result: 05
+2022-06-05 11:44:54,190 — INFO — __CollectVietlottPage:88 — The date 01/09/2019: [0, 5]
+2022-06-05 11:44:54,191 — INFO — __CollectVietlottPage:87 — The raw Result: 05
+2022-06-05 11:44:54,191 — INFO — __CollectVietlottPage:88 — The date 30/08/2019: [0, 5]
+2022-06-05 11:44:54,192 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:44:54,192 — INFO — __CollectVietlottPage:88 — The date 28/08/2019: [0, 1]
+2022-06-05 11:44:54,193 — INFO — __CollectVietlottPage:87 — The raw Result: 07
+2022-06-05 11:44:54,193 — INFO — __CollectVietlottPage:88 — The date 25/08/2019: [0, 7]
+2022-06-05 11:44:54,193 — INFO — __CollectVietlottPage:87 — The raw Result: 06
+2022-06-05 11:44:54,194 — INFO — __CollectVietlottPage:88 — The date 23/08/2019: [0, 6]
+2022-06-05 11:44:54,194 — INFO — __CollectVietlottPage:87 — The raw Result: 06
+2022-06-05 11:44:54,194 — INFO — __CollectVietlottPage:88 — The date 21/08/2019: [0, 6]
+2022-06-05 11:44:54,195 — INFO — __CollectVietlottPage:87 — The raw Result: 02
+2022-06-05 11:44:54,195 — INFO — __CollectVietlottPage:88 — The date 18/08/2019: [0, 2]
+2022-06-05 11:44:54,235 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:44:55,183 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:44:55,183 — INFO — __CollectVietlottPage:88 — The date 04/09/2019: [0, 1]
+2022-06-05 11:44:55,184 — INFO — __CollectVietlottPage:87 — The raw Result: 05
+2022-06-05 11:44:55,184 — INFO — __CollectVietlottPage:88 — The date 01/09/2019: [0, 5]
+2022-06-05 11:44:55,184 — INFO — __CollectVietlottPage:87 — The raw Result: 05
+2022-06-05 11:44:55,184 — INFO — __CollectVietlottPage:88 — The date 30/08/2019: [0, 5]
+2022-06-05 11:44:55,185 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:44:55,185 — INFO — __CollectVietlottPage:88 — The date 28/08/2019: [0, 1]
+2022-06-05 11:44:55,185 — INFO — __CollectVietlottPage:87 — The raw Result: 07
+2022-06-05 11:44:55,186 — INFO — __CollectVietlottPage:88 — The date 25/08/2019: [0, 7]
+2022-06-05 11:44:55,186 — INFO — __CollectVietlottPage:87 — The raw Result: 06
+2022-06-05 11:44:55,186 — INFO — __CollectVietlottPage:88 — The date 23/08/2019: [0, 6]
+2022-06-05 11:44:55,187 — INFO — __CollectVietlottPage:87 — The raw Result: 06
+2022-06-05 11:44:55,187 — INFO — __CollectVietlottPage:88 — The date 21/08/2019: [0, 6]
+2022-06-05 11:44:55,187 — INFO — __CollectVietlottPage:87 — The raw Result: 02
+2022-06-05 11:44:55,187 — INFO — __CollectVietlottPage:88 — The date 18/08/2019: [0, 2]
+2022-06-05 11:44:55,223 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:44:55,631 — INFO — __CollectVietlottPage:87 — The raw Result: 06
+2022-06-05 11:44:55,631 — INFO — __CollectVietlottPage:88 — The date 16/08/2019: [0, 6]
+2022-06-05 11:44:55,632 — INFO — __CollectVietlottPage:87 — The raw Result: 13
+2022-06-05 11:44:55,632 — INFO — __CollectVietlottPage:88 — The date 14/08/2019: [1, 3]
+2022-06-05 11:44:55,632 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:44:55,633 — INFO — __CollectVietlottPage:88 — The date 11/08/2019: [0, 1]
+2022-06-05 11:44:55,633 — INFO — __CollectVietlottPage:87 — The raw Result: 11
+2022-06-05 11:44:55,633 — INFO — __CollectVietlottPage:88 — The date 09/08/2019: [1, 1]
+2022-06-05 11:44:55,634 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:44:55,634 — INFO — __CollectVietlottPage:88 — The date 07/08/2019: [0, 1]
+2022-06-05 11:44:55,634 — INFO — __CollectVietlottPage:87 — The raw Result: 06
+2022-06-05 11:44:55,634 — INFO — __CollectVietlottPage:88 — The date 04/08/2019: [0, 6]
+2022-06-05 11:44:55,635 — INFO — __CollectVietlottPage:87 — The raw Result: 11
+2022-06-05 11:44:55,635 — INFO — __CollectVietlottPage:88 — The date 02/08/2019: [1, 1]
+2022-06-05 11:44:55,635 — INFO — __CollectVietlottPage:87 — The raw Result: 06
+2022-06-05 11:44:55,635 — INFO — __CollectVietlottPage:88 — The date 31/07/2019: [0, 6]
+2022-06-05 11:44:55,680 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:44:56,060 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:44:56,060 — INFO — __CollectVietlottPage:88 — The date 10/07/2019: [0, 1]
+2022-06-05 11:44:56,061 — INFO — __CollectVietlottPage:87 — The raw Result: 02
+2022-06-05 11:44:56,061 — INFO — __CollectVietlottPage:88 — The date 07/07/2019: [0, 2]
+2022-06-05 11:44:56,061 — INFO — __CollectVietlottPage:87 — The raw Result: 19
+2022-06-05 11:44:56,061 — INFO — __CollectVietlottPage:88 — The date 05/07/2019: [1, 9]
+2022-06-05 11:44:56,062 — INFO — __CollectVietlottPage:87 — The raw Result: 02
+2022-06-05 11:44:56,062 — INFO — __CollectVietlottPage:88 — The date 03/07/2019: [0, 2]
+2022-06-05 11:44:56,062 — INFO — __CollectVietlottPage:87 — The raw Result: 05
+2022-06-05 11:44:56,063 — INFO — __CollectVietlottPage:88 — The date 30/06/2019: [0, 5]
+2022-06-05 11:44:56,063 — INFO — __CollectVietlottPage:87 — The raw Result: 11
+2022-06-05 11:44:56,063 — INFO — __CollectVietlottPage:88 — The date 28/06/2019: [1, 1]
+2022-06-05 11:44:56,064 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:44:56,064 — INFO — __CollectVietlottPage:88 — The date 26/06/2019: [0, 1]
+2022-06-05 11:44:56,064 — INFO — __CollectVietlottPage:87 — The raw Result: 03
+2022-06-05 11:44:56,064 — INFO — __CollectVietlottPage:88 — The date 23/06/2019: [0, 3]
+2022-06-05 11:44:56,104 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:44:56,584 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:44:56,584 — INFO — __CollectVietlottPage:88 — The date 10/07/2019: [0, 1]
+2022-06-05 11:44:56,585 — INFO — __CollectVietlottPage:87 — The raw Result: 02
+2022-06-05 11:44:56,585 — INFO — __CollectVietlottPage:88 — The date 07/07/2019: [0, 2]
+2022-06-05 11:44:56,585 — INFO — __CollectVietlottPage:87 — The raw Result: 19
+2022-06-05 11:44:56,585 — INFO — __CollectVietlottPage:88 — The date 05/07/2019: [1, 9]
+2022-06-05 11:44:56,586 — INFO — __CollectVietlottPage:87 — The raw Result: 02
+2022-06-05 11:44:56,586 — INFO — __CollectVietlottPage:88 — The date 03/07/2019: [0, 2]
+2022-06-05 11:44:56,586 — INFO — __CollectVietlottPage:87 — The raw Result: 05
+2022-06-05 11:44:56,586 — INFO — __CollectVietlottPage:88 — The date 30/06/2019: [0, 5]
+2022-06-05 11:44:56,587 — INFO — __CollectVietlottPage:87 — The raw Result: 11
+2022-06-05 11:44:56,587 — INFO — __CollectVietlottPage:88 — The date 28/06/2019: [1, 1]
+2022-06-05 11:44:56,587 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:44:56,588 — INFO — __CollectVietlottPage:88 — The date 26/06/2019: [0, 1]
+2022-06-05 11:44:56,588 — INFO — __CollectVietlottPage:87 — The raw Result: 03
+2022-06-05 11:44:56,588 — INFO — __CollectVietlottPage:88 — The date 23/06/2019: [0, 3]
+2022-06-05 11:44:56,643 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:44:57,031 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:44:57,031 — INFO — __CollectVietlottPage:88 — The date 21/06/2019: [0, 1]
+2022-06-05 11:44:57,031 — INFO — __CollectVietlottPage:87 — The raw Result: 02
+2022-06-05 11:44:57,032 — INFO — __CollectVietlottPage:88 — The date 19/06/2019: [0, 2]
+2022-06-05 11:44:57,032 — INFO — __CollectVietlottPage:87 — The raw Result: 06
+2022-06-05 11:44:57,032 — INFO — __CollectVietlottPage:88 — The date 16/06/2019: [0, 6]
+2022-06-05 11:44:57,033 — INFO — __CollectVietlottPage:87 — The raw Result: 02
+2022-06-05 11:44:57,033 — INFO — __CollectVietlottPage:88 — The date 14/06/2019: [0, 2]
+2022-06-05 11:44:57,033 — INFO — __CollectVietlottPage:87 — The raw Result: 10
+2022-06-05 11:44:57,033 — INFO — __CollectVietlottPage:88 — The date 12/06/2019: [1, 0]
+2022-06-05 11:44:57,034 — INFO — __CollectVietlottPage:87 — The raw Result: 02
+2022-06-05 11:44:57,034 — INFO — __CollectVietlottPage:88 — The date 09/06/2019: [0, 2]
+2022-06-05 11:44:57,034 — INFO — __CollectVietlottPage:87 — The raw Result: 11
+2022-06-05 11:44:57,034 — INFO — __CollectVietlottPage:88 — The date 07/06/2019: [1, 1]
+2022-06-05 11:44:57,035 — INFO — __CollectVietlottPage:87 — The raw Result: 04
+2022-06-05 11:44:57,035 — INFO — __CollectVietlottPage:88 — The date 05/06/2019: [0, 4]
+2022-06-05 11:44:57,078 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:44:57,456 — INFO — __CollectVietlottPage:87 — The raw Result: 02
+2022-06-05 11:44:57,456 — INFO — __CollectVietlottPage:88 — The date 02/06/2019: [0, 2]
+2022-06-05 11:44:57,457 — INFO — __CollectVietlottPage:87 — The raw Result: 05
+2022-06-05 11:44:57,457 — INFO — __CollectVietlottPage:88 — The date 31/05/2019: [0, 5]
+2022-06-05 11:44:57,460 — INFO — __CollectVietlottPage:87 — The raw Result: 12
+2022-06-05 11:44:57,460 — INFO — __CollectVietlottPage:88 — The date 29/05/2019: [1, 2]
+2022-06-05 11:44:57,461 — INFO — __CollectVietlottPage:87 — The raw Result: 11
+2022-06-05 11:44:57,461 — INFO — __CollectVietlottPage:88 — The date 26/05/2019: [1, 1]
+2022-06-05 11:44:57,461 — INFO — __CollectVietlottPage:87 — The raw Result: 02
+2022-06-05 11:44:57,461 — INFO — __CollectVietlottPage:88 — The date 24/05/2019: [0, 2]
+2022-06-05 11:44:57,462 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:44:57,462 — INFO — __CollectVietlottPage:88 — The date 22/05/2019: [0, 1]
+2022-06-05 11:44:57,462 — INFO — __CollectVietlottPage:87 — The raw Result: 02
+2022-06-05 11:44:57,463 — INFO — __CollectVietlottPage:88 — The date 19/05/2019: [0, 2]
+2022-06-05 11:44:57,463 — INFO — __CollectVietlottPage:87 — The raw Result: 06
+2022-06-05 11:44:57,463 — INFO — __CollectVietlottPage:88 — The date 17/05/2019: [0, 6]
+2022-06-05 11:44:57,500 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:44:57,967 — INFO — __CollectVietlottPage:87 — The raw Result: 17
+2022-06-05 11:44:57,967 — INFO — __CollectVietlottPage:88 — The date 15/05/2019: [1, 7]
+2022-06-05 11:44:57,968 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:44:57,968 — INFO — __CollectVietlottPage:88 — The date 12/05/2019: [0, 1]
+2022-06-05 11:44:57,968 — INFO — __CollectVietlottPage:87 — The raw Result: 05
+2022-06-05 11:44:57,968 — INFO — __CollectVietlottPage:88 — The date 10/05/2019: [0, 5]
+2022-06-05 11:44:57,969 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:44:57,969 — INFO — __CollectVietlottPage:88 — The date 08/05/2019: [0, 1]
+2022-06-05 11:44:57,969 — INFO — __CollectVietlottPage:87 — The raw Result: 13
+2022-06-05 11:44:57,969 — INFO — __CollectVietlottPage:88 — The date 05/05/2019: [1, 3]
+2022-06-05 11:44:57,970 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:44:57,970 — INFO — __CollectVietlottPage:88 — The date 03/05/2019: [0, 1]
+2022-06-05 11:44:57,970 — INFO — __CollectVietlottPage:87 — The raw Result: 18
+2022-06-05 11:44:57,970 — INFO — __CollectVietlottPage:88 — The date 01/05/2019: [1, 8]
+2022-06-05 11:44:57,971 — INFO — __CollectVietlottPage:87 — The raw Result: 04
+2022-06-05 11:44:57,971 — INFO — __CollectVietlottPage:88 — The date 28/04/2019: [0, 4]
+2022-06-05 11:44:58,007 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:44:58,406 — INFO — __CollectVietlottPage:87 — The raw Result: 08
+2022-06-05 11:44:58,406 — INFO — __CollectVietlottPage:88 — The date 07/04/2019: [0, 8]
+2022-06-05 11:44:58,406 — INFO — __CollectVietlottPage:87 — The raw Result: 02
+2022-06-05 11:44:58,406 — INFO — __CollectVietlottPage:88 — The date 05/04/2019: [0, 2]
+2022-06-05 11:44:58,407 — INFO — __CollectVietlottPage:87 — The raw Result: 04
+2022-06-05 11:44:58,407 — INFO — __CollectVietlottPage:88 — The date 03/04/2019: [0, 4]
+2022-06-05 11:44:58,407 — INFO — __CollectVietlottPage:87 — The raw Result: 03
+2022-06-05 11:44:58,407 — INFO — __CollectVietlottPage:88 — The date 31/03/2019: [0, 3]
+2022-06-05 11:44:58,410 — INFO — __CollectVietlottPage:87 — The raw Result: 02
+2022-06-05 11:44:58,410 — INFO — __CollectVietlottPage:88 — The date 29/03/2019: [0, 2]
+2022-06-05 11:44:58,411 — INFO — __CollectVietlottPage:87 — The raw Result: 09
+2022-06-05 11:44:58,411 — INFO — __CollectVietlottPage:88 — The date 27/03/2019: [0, 9]
+2022-06-05 11:44:58,411 — INFO — __CollectVietlottPage:87 — The raw Result: 05
+2022-06-05 11:44:58,411 — INFO — __CollectVietlottPage:88 — The date 24/03/2019: [0, 5]
+2022-06-05 11:44:58,412 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:44:58,412 — INFO — __CollectVietlottPage:88 — The date 22/03/2019: [0, 1]
+2022-06-05 11:44:58,454 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:44:58,960 — INFO — __CollectVietlottPage:87 — The raw Result: 08
+2022-06-05 11:44:58,960 — INFO — __CollectVietlottPage:88 — The date 07/04/2019: [0, 8]
+2022-06-05 11:44:58,960 — INFO — __CollectVietlottPage:87 — The raw Result: 02
+2022-06-05 11:44:58,960 — INFO — __CollectVietlottPage:88 — The date 05/04/2019: [0, 2]
+2022-06-05 11:44:58,961 — INFO — __CollectVietlottPage:87 — The raw Result: 04
+2022-06-05 11:44:58,961 — INFO — __CollectVietlottPage:88 — The date 03/04/2019: [0, 4]
+2022-06-05 11:44:58,961 — INFO — __CollectVietlottPage:87 — The raw Result: 03
+2022-06-05 11:44:58,962 — INFO — __CollectVietlottPage:88 — The date 31/03/2019: [0, 3]
+2022-06-05 11:44:58,962 — INFO — __CollectVietlottPage:87 — The raw Result: 02
+2022-06-05 11:44:58,962 — INFO — __CollectVietlottPage:88 — The date 29/03/2019: [0, 2]
+2022-06-05 11:44:58,963 — INFO — __CollectVietlottPage:87 — The raw Result: 09
+2022-06-05 11:44:58,963 — INFO — __CollectVietlottPage:88 — The date 27/03/2019: [0, 9]
+2022-06-05 11:44:58,963 — INFO — __CollectVietlottPage:87 — The raw Result: 05
+2022-06-05 11:44:58,964 — INFO — __CollectVietlottPage:88 — The date 24/03/2019: [0, 5]
+2022-06-05 11:44:58,965 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:44:58,965 — INFO — __CollectVietlottPage:88 — The date 22/03/2019: [0, 1]
+2022-06-05 11:44:59,004 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:44:59,452 — INFO — __CollectVietlottPage:87 — The raw Result: 15
+2022-06-05 11:44:59,452 — INFO — __CollectVietlottPage:88 — The date 01/03/2019: [1, 5]
+2022-06-05 11:44:59,453 — INFO — __CollectVietlottPage:87 — The raw Result: 05
+2022-06-05 11:44:59,453 — INFO — __CollectVietlottPage:88 — The date 27/02/2019: [0, 5]
+2022-06-05 11:44:59,453 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:44:59,453 — INFO — __CollectVietlottPage:88 — The date 24/02/2019: [0, 1]
+2022-06-05 11:44:59,454 — INFO — __CollectVietlottPage:87 — The raw Result: 07
+2022-06-05 11:44:59,454 — INFO — __CollectVietlottPage:88 — The date 22/02/2019: [0, 7]
+2022-06-05 11:44:59,455 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:44:59,455 — INFO — __CollectVietlottPage:88 — The date 20/02/2019: [0, 1]
+2022-06-05 11:44:59,455 — INFO — __CollectVietlottPage:87 — The raw Result: 11
+2022-06-05 11:44:59,455 — INFO — __CollectVietlottPage:88 — The date 17/02/2019: [1, 1]
+2022-06-05 11:44:59,456 — INFO — __CollectVietlottPage:87 — The raw Result: 03
+2022-06-05 11:44:59,456 — INFO — __CollectVietlottPage:88 — The date 15/02/2019: [0, 3]
+2022-06-05 11:44:59,457 — INFO — __CollectVietlottPage:87 — The raw Result: 05
+2022-06-05 11:44:59,457 — INFO — __CollectVietlottPage:88 — The date 13/02/2019: [0, 5]
+2022-06-05 11:44:59,501 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:44:59,911 — INFO — __CollectVietlottPage:87 — The raw Result: 15
+2022-06-05 11:44:59,911 — INFO — __CollectVietlottPage:88 — The date 01/03/2019: [1, 5]
+2022-06-05 11:44:59,912 — INFO — __CollectVietlottPage:87 — The raw Result: 05
+2022-06-05 11:44:59,913 — INFO — __CollectVietlottPage:88 — The date 27/02/2019: [0, 5]
+2022-06-05 11:44:59,913 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:44:59,913 — INFO — __CollectVietlottPage:88 — The date 24/02/2019: [0, 1]
+2022-06-05 11:44:59,914 — INFO — __CollectVietlottPage:87 — The raw Result: 07
+2022-06-05 11:44:59,914 — INFO — __CollectVietlottPage:88 — The date 22/02/2019: [0, 7]
+2022-06-05 11:44:59,914 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:44:59,915 — INFO — __CollectVietlottPage:88 — The date 20/02/2019: [0, 1]
+2022-06-05 11:44:59,915 — INFO — __CollectVietlottPage:87 — The raw Result: 11
+2022-06-05 11:44:59,915 — INFO — __CollectVietlottPage:88 — The date 17/02/2019: [1, 1]
+2022-06-05 11:44:59,916 — INFO — __CollectVietlottPage:87 — The raw Result: 03
+2022-06-05 11:44:59,916 — INFO — __CollectVietlottPage:88 — The date 15/02/2019: [0, 3]
+2022-06-05 11:44:59,916 — INFO — __CollectVietlottPage:87 — The raw Result: 05
+2022-06-05 11:44:59,916 — INFO — __CollectVietlottPage:88 — The date 13/02/2019: [0, 5]
+2022-06-05 11:44:59,968 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:45:00,367 — INFO — __CollectVietlottPage:87 — The raw Result: 02
+2022-06-05 11:45:00,367 — INFO — __CollectVietlottPage:88 — The date 23/01/2019: [0, 2]
+2022-06-05 11:45:00,368 — INFO — __CollectVietlottPage:87 — The raw Result: 08
+2022-06-05 11:45:00,368 — INFO — __CollectVietlottPage:88 — The date 20/01/2019: [0, 8]
+2022-06-05 11:45:00,368 — INFO — __CollectVietlottPage:87 — The raw Result: 12
+2022-06-05 11:45:00,368 — INFO — __CollectVietlottPage:88 — The date 18/01/2019: [1, 2]
+2022-06-05 11:45:00,369 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:45:00,369 — INFO — __CollectVietlottPage:88 — The date 16/01/2019: [0, 1]
+2022-06-05 11:45:00,369 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:45:00,370 — INFO — __CollectVietlottPage:88 — The date 13/01/2019: [0, 1]
+2022-06-05 11:45:00,370 — INFO — __CollectVietlottPage:87 — The raw Result: 19
+2022-06-05 11:45:00,370 — INFO — __CollectVietlottPage:88 — The date 11/01/2019: [1, 9]
+2022-06-05 11:45:00,371 — INFO — __CollectVietlottPage:87 — The raw Result: 17
+2022-06-05 11:45:00,371 — INFO — __CollectVietlottPage:88 — The date 09/01/2019: [1, 7]
+2022-06-05 11:45:00,371 — INFO — __CollectVietlottPage:87 — The raw Result: 09
+2022-06-05 11:45:00,371 — INFO — __CollectVietlottPage:88 — The date 06/01/2019: [0, 9]
+2022-06-05 11:45:00,406 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:45:00,814 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:45:00,814 — INFO — __CollectVietlottPage:88 — The date 04/01/2019: [0, 1]
+2022-06-05 11:45:00,814 — INFO — __CollectVietlottPage:87 — The raw Result: 04
+2022-06-05 11:45:00,814 — INFO — __CollectVietlottPage:88 — The date 02/01/2019: [0, 4]
+2022-06-05 11:45:00,815 — INFO — __CollectVietlottPage:87 — The raw Result: 10
+2022-06-05 11:45:00,815 — INFO — __CollectVietlottPage:88 — The date 30/12/2018: [1, 0]
+2022-06-05 11:45:00,815 — INFO — __CollectVietlottPage:87 — The raw Result: 03
+2022-06-05 11:45:00,815 — INFO — __CollectVietlottPage:88 — The date 28/12/2018: [0, 3]
+2022-06-05 11:45:00,816 — INFO — __CollectVietlottPage:87 — The raw Result: 21
+2022-06-05 11:45:00,816 — INFO — __CollectVietlottPage:88 — The date 26/12/2018: [2, 1]
+2022-06-05 11:45:00,817 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:45:00,817 — INFO — __CollectVietlottPage:88 — The date 23/12/2018: [0, 1]
+2022-06-05 11:45:00,817 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:45:00,817 — INFO — __CollectVietlottPage:88 — The date 21/12/2018: [0, 1]
+2022-06-05 11:45:00,818 — INFO — __CollectVietlottPage:87 — The raw Result: 02
+2022-06-05 11:45:00,818 — INFO — __CollectVietlottPage:88 — The date 19/12/2018: [0, 2]
+2022-06-05 11:45:00,854 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:45:01,366 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:45:01,367 — INFO — __CollectVietlottPage:88 — The date 04/01/2019: [0, 1]
+2022-06-05 11:45:01,367 — INFO — __CollectVietlottPage:87 — The raw Result: 04
+2022-06-05 11:45:01,367 — INFO — __CollectVietlottPage:88 — The date 02/01/2019: [0, 4]
+2022-06-05 11:45:01,368 — INFO — __CollectVietlottPage:87 — The raw Result: 10
+2022-06-05 11:45:01,368 — INFO — __CollectVietlottPage:88 — The date 30/12/2018: [1, 0]
+2022-06-05 11:45:01,368 — INFO — __CollectVietlottPage:87 — The raw Result: 03
+2022-06-05 11:45:01,368 — INFO — __CollectVietlottPage:88 — The date 28/12/2018: [0, 3]
+2022-06-05 11:45:01,369 — INFO — __CollectVietlottPage:87 — The raw Result: 21
+2022-06-05 11:45:01,369 — INFO — __CollectVietlottPage:88 — The date 26/12/2018: [2, 1]
+2022-06-05 11:45:01,369 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:45:01,370 — INFO — __CollectVietlottPage:88 — The date 23/12/2018: [0, 1]
+2022-06-05 11:45:01,370 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:45:01,370 — INFO — __CollectVietlottPage:88 — The date 21/12/2018: [0, 1]
+2022-06-05 11:45:01,371 — INFO — __CollectVietlottPage:87 — The raw Result: 02
+2022-06-05 11:45:01,371 — INFO — __CollectVietlottPage:88 — The date 19/12/2018: [0, 2]
+2022-06-05 11:45:01,412 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:45:01,788 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:45:01,788 — INFO — __CollectVietlottPage:88 — The date 16/12/2018: [0, 1]
+2022-06-05 11:45:01,789 — INFO — __CollectVietlottPage:87 — The raw Result: 07
+2022-06-05 11:45:01,789 — INFO — __CollectVietlottPage:88 — The date 14/12/2018: [0, 7]
+2022-06-05 11:45:01,789 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:45:01,789 — INFO — __CollectVietlottPage:88 — The date 12/12/2018: [0, 1]
+2022-06-05 11:45:01,790 — INFO — __CollectVietlottPage:87 — The raw Result: 06
+2022-06-05 11:45:01,790 — INFO — __CollectVietlottPage:88 — The date 09/12/2018: [0, 6]
+2022-06-05 11:45:01,790 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:45:01,791 — INFO — __CollectVietlottPage:88 — The date 07/12/2018: [0, 1]
+2022-06-05 11:45:01,792 — INFO — __CollectVietlottPage:87 — The raw Result: 07
+2022-06-05 11:45:01,792 — INFO — __CollectVietlottPage:88 — The date 05/12/2018: [0, 7]
+2022-06-05 11:45:01,793 — INFO — __CollectVietlottPage:87 — The raw Result: 02
+2022-06-05 11:45:01,793 — INFO — __CollectVietlottPage:88 — The date 02/12/2018: [0, 2]
+2022-06-05 11:45:01,793 — INFO — __CollectVietlottPage:87 — The raw Result: 11
+2022-06-05 11:45:01,793 — INFO — __CollectVietlottPage:88 — The date 30/11/2018: [1, 1]
+2022-06-05 11:45:01,836 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:45:02,229 — INFO — __CollectVietlottPage:87 — The raw Result: 08
+2022-06-05 11:45:02,229 — INFO — __CollectVietlottPage:88 — The date 28/11/2018: [0, 8]
+2022-06-05 11:45:02,230 — INFO — __CollectVietlottPage:87 — The raw Result: 03
+2022-06-05 11:45:02,230 — INFO — __CollectVietlottPage:88 — The date 25/11/2018: [0, 3]
+2022-06-05 11:45:02,231 — INFO — __CollectVietlottPage:87 — The raw Result: 08
+2022-06-05 11:45:02,231 — INFO — __CollectVietlottPage:88 — The date 23/11/2018: [0, 8]
+2022-06-05 11:45:02,231 — INFO — __CollectVietlottPage:87 — The raw Result: 07
+2022-06-05 11:45:02,231 — INFO — __CollectVietlottPage:88 — The date 21/11/2018: [0, 7]
+2022-06-05 11:45:02,232 — INFO — __CollectVietlottPage:87 — The raw Result: 06
+2022-06-05 11:45:02,232 — INFO — __CollectVietlottPage:88 — The date 18/11/2018: [0, 6]
+2022-06-05 11:45:02,232 — INFO — __CollectVietlottPage:87 — The raw Result: 04
+2022-06-05 11:45:02,232 — INFO — __CollectVietlottPage:88 — The date 16/11/2018: [0, 4]
+2022-06-05 11:45:02,233 — INFO — __CollectVietlottPage:87 — The raw Result: 12
+2022-06-05 11:45:02,233 — INFO — __CollectVietlottPage:88 — The date 14/11/2018: [1, 2]
+2022-06-05 11:45:02,233 — INFO — __CollectVietlottPage:87 — The raw Result: 20
+2022-06-05 11:45:02,234 — INFO — __CollectVietlottPage:88 — The date 11/11/2018: [2, 0]
+2022-06-05 11:45:02,274 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:45:02,700 — INFO — __CollectVietlottPage:87 — The raw Result: 06
+2022-06-05 11:45:02,700 — INFO — __CollectVietlottPage:88 — The date 21/10/2018: [0, 6]
+2022-06-05 11:45:02,700 — INFO — __CollectVietlottPage:87 — The raw Result: 02
+2022-06-05 11:45:02,700 — INFO — __CollectVietlottPage:88 — The date 19/10/2018: [0, 2]
+2022-06-05 11:45:02,701 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:45:02,701 — INFO — __CollectVietlottPage:88 — The date 17/10/2018: [0, 1]
+2022-06-05 11:45:02,702 — INFO — __CollectVietlottPage:87 — The raw Result: 07
+2022-06-05 11:45:02,702 — INFO — __CollectVietlottPage:88 — The date 14/10/2018: [0, 7]
+2022-06-05 11:45:02,703 — INFO — __CollectVietlottPage:87 — The raw Result: 11
+2022-06-05 11:45:02,703 — INFO — __CollectVietlottPage:88 — The date 12/10/2018: [1, 1]
+2022-06-05 11:45:02,703 — INFO — __CollectVietlottPage:87 — The raw Result: 18
+2022-06-05 11:45:02,703 — INFO — __CollectVietlottPage:88 — The date 10/10/2018: [1, 8]
+2022-06-05 11:45:02,704 — INFO — __CollectVietlottPage:87 — The raw Result: 14
+2022-06-05 11:45:02,704 — INFO — __CollectVietlottPage:88 — The date 07/10/2018: [1, 4]
+2022-06-05 11:45:02,704 — INFO — __CollectVietlottPage:87 — The raw Result: 04
+2022-06-05 11:45:02,705 — INFO — __CollectVietlottPage:88 — The date 05/10/2018: [0, 4]
+2022-06-05 11:45:02,748 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:45:03,169 — INFO — __CollectVietlottPage:87 — The raw Result: 06
+2022-06-05 11:45:03,169 — INFO — __CollectVietlottPage:88 — The date 21/10/2018: [0, 6]
+2022-06-05 11:45:03,170 — INFO — __CollectVietlottPage:87 — The raw Result: 02
+2022-06-05 11:45:03,171 — INFO — __CollectVietlottPage:88 — The date 19/10/2018: [0, 2]
+2022-06-05 11:45:03,171 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:45:03,171 — INFO — __CollectVietlottPage:88 — The date 17/10/2018: [0, 1]
+2022-06-05 11:45:03,172 — INFO — __CollectVietlottPage:87 — The raw Result: 07
+2022-06-05 11:45:03,172 — INFO — __CollectVietlottPage:88 — The date 14/10/2018: [0, 7]
+2022-06-05 11:45:03,172 — INFO — __CollectVietlottPage:87 — The raw Result: 11
+2022-06-05 11:45:03,172 — INFO — __CollectVietlottPage:88 — The date 12/10/2018: [1, 1]
+2022-06-05 11:45:03,173 — INFO — __CollectVietlottPage:87 — The raw Result: 18
+2022-06-05 11:45:03,173 — INFO — __CollectVietlottPage:88 — The date 10/10/2018: [1, 8]
+2022-06-05 11:45:03,176 — INFO — __CollectVietlottPage:87 — The raw Result: 14
+2022-06-05 11:45:03,176 — INFO — __CollectVietlottPage:88 — The date 07/10/2018: [1, 4]
+2022-06-05 11:45:03,177 — INFO — __CollectVietlottPage:87 — The raw Result: 04
+2022-06-05 11:45:03,177 — INFO — __CollectVietlottPage:88 — The date 05/10/2018: [0, 4]
+2022-06-05 11:45:03,215 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:45:03,738 — INFO — __CollectVietlottPage:87 — The raw Result: 06
+2022-06-05 11:45:03,739 — INFO — __CollectVietlottPage:88 — The date 03/10/2018: [0, 6]
+2022-06-05 11:45:03,739 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:45:03,739 — INFO — __CollectVietlottPage:88 — The date 30/09/2018: [0, 1]
+2022-06-05 11:45:03,740 — INFO — __CollectVietlottPage:87 — The raw Result: 02
+2022-06-05 11:45:03,740 — INFO — __CollectVietlottPage:88 — The date 28/09/2018: [0, 2]
+2022-06-05 11:45:03,740 — INFO — __CollectVietlottPage:87 — The raw Result: 12
+2022-06-05 11:45:03,740 — INFO — __CollectVietlottPage:88 — The date 26/09/2018: [1, 2]
+2022-06-05 11:45:03,741 — INFO — __CollectVietlottPage:87 — The raw Result: 18
+2022-06-05 11:45:03,741 — INFO — __CollectVietlottPage:88 — The date 23/09/2018: [1, 8]
+2022-06-05 11:45:03,742 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:45:03,742 — INFO — __CollectVietlottPage:88 — The date 21/09/2018: [0, 1]
+2022-06-05 11:45:03,743 — INFO — __CollectVietlottPage:87 — The raw Result: 10
+2022-06-05 11:45:03,743 — INFO — __CollectVietlottPage:88 — The date 19/09/2018: [1, 0]
+2022-06-05 11:45:03,744 — INFO — __CollectVietlottPage:87 — The raw Result: 03
+2022-06-05 11:45:03,744 — INFO — __CollectVietlottPage:88 — The date 16/09/2018: [0, 3]
+2022-06-05 11:45:03,793 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:45:04,221 — INFO — __CollectVietlottPage:87 — The raw Result: 12
+2022-06-05 11:45:04,221 — INFO — __CollectVietlottPage:88 — The date 14/09/2018: [1, 2]
+2022-06-05 11:45:04,221 — INFO — __CollectVietlottPage:87 — The raw Result: 11
+2022-06-05 11:45:04,221 — INFO — __CollectVietlottPage:88 — The date 12/09/2018: [1, 1]
+2022-06-05 11:45:04,222 — INFO — __CollectVietlottPage:87 — The raw Result: 08
+2022-06-05 11:45:04,222 — INFO — __CollectVietlottPage:88 — The date 09/09/2018: [0, 8]
+2022-06-05 11:45:04,223 — INFO — __CollectVietlottPage:87 — The raw Result: 08
+2022-06-05 11:45:04,223 — INFO — __CollectVietlottPage:88 — The date 07/09/2018: [0, 8]
+2022-06-05 11:45:04,224 — INFO — __CollectVietlottPage:87 — The raw Result: 05
+2022-06-05 11:45:04,225 — INFO — __CollectVietlottPage:88 — The date 05/09/2018: [0, 5]
+2022-06-05 11:45:04,227 — INFO — __CollectVietlottPage:87 — The raw Result: 10
+2022-06-05 11:45:04,227 — INFO — __CollectVietlottPage:88 — The date 02/09/2018: [1, 0]
+2022-06-05 11:45:04,228 — INFO — __CollectVietlottPage:87 — The raw Result: 11
+2022-06-05 11:45:04,228 — INFO — __CollectVietlottPage:88 — The date 31/08/2018: [1, 1]
+2022-06-05 11:45:04,229 — INFO — __CollectVietlottPage:87 — The raw Result: 16
+2022-06-05 11:45:04,229 — INFO — __CollectVietlottPage:88 — The date 29/08/2018: [1, 6]
+2022-06-05 11:45:04,270 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:45:04,679 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:45:04,679 — INFO — __CollectVietlottPage:88 — The date 26/08/2018: [0, 1]
+2022-06-05 11:45:04,679 — INFO — __CollectVietlottPage:87 — The raw Result: 03
+2022-06-05 11:45:04,680 — INFO — __CollectVietlottPage:88 — The date 24/08/2018: [0, 3]
+2022-06-05 11:45:04,680 — INFO — __CollectVietlottPage:87 — The raw Result: 15
+2022-06-05 11:45:04,680 — INFO — __CollectVietlottPage:88 — The date 22/08/2018: [1, 5]
+2022-06-05 11:45:04,681 — INFO — __CollectVietlottPage:87 — The raw Result: 16
+2022-06-05 11:45:04,681 — INFO — __CollectVietlottPage:88 — The date 19/08/2018: [1, 6]
+2022-06-05 11:45:04,681 — INFO — __CollectVietlottPage:87 — The raw Result: 03
+2022-06-05 11:45:04,681 — INFO — __CollectVietlottPage:88 — The date 17/08/2018: [0, 3]
+2022-06-05 11:45:04,682 — INFO — __CollectVietlottPage:87 — The raw Result: 12
+2022-06-05 11:45:04,682 — INFO — __CollectVietlottPage:88 — The date 15/08/2018: [1, 2]
+2022-06-05 11:45:04,682 — INFO — __CollectVietlottPage:87 — The raw Result: 05
+2022-06-05 11:45:04,682 — INFO — __CollectVietlottPage:88 — The date 12/08/2018: [0, 5]
+2022-06-05 11:45:04,683 — INFO — __CollectVietlottPage:87 — The raw Result: 18
+2022-06-05 11:45:04,683 — INFO — __CollectVietlottPage:88 — The date 10/08/2018: [1, 8]
+2022-06-05 11:45:04,751 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:45:05,203 — INFO — __CollectVietlottPage:87 — The raw Result: 13
+2022-06-05 11:45:05,203 — INFO — __CollectVietlottPage:88 — The date 20/07/2018: [1, 3]
+2022-06-05 11:45:05,203 — INFO — __CollectVietlottPage:87 — The raw Result: 08
+2022-06-05 11:45:05,203 — INFO — __CollectVietlottPage:88 — The date 18/07/2018: [0, 8]
+2022-06-05 11:45:05,204 — INFO — __CollectVietlottPage:87 — The raw Result: 07
+2022-06-05 11:45:05,204 — INFO — __CollectVietlottPage:88 — The date 15/07/2018: [0, 7]
+2022-06-05 11:45:05,204 — INFO — __CollectVietlottPage:87 — The raw Result: 03
+2022-06-05 11:45:05,205 — INFO — __CollectVietlottPage:88 — The date 13/07/2018: [0, 3]
+2022-06-05 11:45:05,205 — INFO — __CollectVietlottPage:87 — The raw Result: 12
+2022-06-05 11:45:05,205 — INFO — __CollectVietlottPage:88 — The date 11/07/2018: [1, 2]
+2022-06-05 11:45:05,206 — INFO — __CollectVietlottPage:87 — The raw Result: 02
+2022-06-05 11:45:05,206 — INFO — __CollectVietlottPage:88 — The date 08/07/2018: [0, 2]
+2022-06-05 11:45:05,206 — INFO — __CollectVietlottPage:87 — The raw Result: 22
+2022-06-05 11:45:05,206 — INFO — __CollectVietlottPage:88 — The date 06/07/2018: [2, 2]
+2022-06-05 11:45:05,207 — INFO — __CollectVietlottPage:87 — The raw Result: 02
+2022-06-05 11:45:05,207 — INFO — __CollectVietlottPage:88 — The date 04/07/2018: [0, 2]
+2022-06-05 11:45:05,254 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:45:05,679 — INFO — __CollectVietlottPage:87 — The raw Result: 13
+2022-06-05 11:45:05,679 — INFO — __CollectVietlottPage:88 — The date 20/07/2018: [1, 3]
+2022-06-05 11:45:05,679 — INFO — __CollectVietlottPage:87 — The raw Result: 08
+2022-06-05 11:45:05,679 — INFO — __CollectVietlottPage:88 — The date 18/07/2018: [0, 8]
+2022-06-05 11:45:05,680 — INFO — __CollectVietlottPage:87 — The raw Result: 07
+2022-06-05 11:45:05,680 — INFO — __CollectVietlottPage:88 — The date 15/07/2018: [0, 7]
+2022-06-05 11:45:05,680 — INFO — __CollectVietlottPage:87 — The raw Result: 03
+2022-06-05 11:45:05,681 — INFO — __CollectVietlottPage:88 — The date 13/07/2018: [0, 3]
+2022-06-05 11:45:05,681 — INFO — __CollectVietlottPage:87 — The raw Result: 12
+2022-06-05 11:45:05,681 — INFO — __CollectVietlottPage:88 — The date 11/07/2018: [1, 2]
+2022-06-05 11:45:05,682 — INFO — __CollectVietlottPage:87 — The raw Result: 02
+2022-06-05 11:45:05,682 — INFO — __CollectVietlottPage:88 — The date 08/07/2018: [0, 2]
+2022-06-05 11:45:05,682 — INFO — __CollectVietlottPage:87 — The raw Result: 22
+2022-06-05 11:45:05,682 — INFO — __CollectVietlottPage:88 — The date 06/07/2018: [2, 2]
+2022-06-05 11:45:05,683 — INFO — __CollectVietlottPage:87 — The raw Result: 02
+2022-06-05 11:45:05,683 — INFO — __CollectVietlottPage:88 — The date 04/07/2018: [0, 2]
+2022-06-05 11:45:05,720 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:45:06,225 — INFO — __CollectVietlottPage:87 — The raw Result: 02
+2022-06-05 11:45:06,225 — INFO — __CollectVietlottPage:88 — The date 13/06/2018: [0, 2]
+2022-06-05 11:45:06,225 — INFO — __CollectVietlottPage:87 — The raw Result: 22
+2022-06-05 11:45:06,226 — INFO — __CollectVietlottPage:88 — The date 10/06/2018: [2, 2]
+2022-06-05 11:45:06,227 — INFO — __CollectVietlottPage:87 — The raw Result: 04
+2022-06-05 11:45:06,227 — INFO — __CollectVietlottPage:88 — The date 08/06/2018: [0, 4]
+2022-06-05 11:45:06,228 — INFO — __CollectVietlottPage:87 — The raw Result: 06
+2022-06-05 11:45:06,228 — INFO — __CollectVietlottPage:88 — The date 06/06/2018: [0, 6]
+2022-06-05 11:45:06,228 — INFO — __CollectVietlottPage:87 — The raw Result: 18
+2022-06-05 11:45:06,228 — INFO — __CollectVietlottPage:88 — The date 03/06/2018: [1, 8]
+2022-06-05 11:45:06,229 — INFO — __CollectVietlottPage:87 — The raw Result: 06
+2022-06-05 11:45:06,229 — INFO — __CollectVietlottPage:88 — The date 01/06/2018: [0, 6]
+2022-06-05 11:45:06,229 — INFO — __CollectVietlottPage:87 — The raw Result: 02
+2022-06-05 11:45:06,229 — INFO — __CollectVietlottPage:88 — The date 30/05/2018: [0, 2]
+2022-06-05 11:45:06,230 — INFO — __CollectVietlottPage:87 — The raw Result: 05
+2022-06-05 11:45:06,230 — INFO — __CollectVietlottPage:88 — The date 27/05/2018: [0, 5]
+2022-06-05 11:45:06,270 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:45:06,673 — INFO — __CollectVietlottPage:87 — The raw Result: 02
+2022-06-05 11:45:06,673 — INFO — __CollectVietlottPage:88 — The date 13/06/2018: [0, 2]
+2022-06-05 11:45:06,673 — INFO — __CollectVietlottPage:87 — The raw Result: 22
+2022-06-05 11:45:06,674 — INFO — __CollectVietlottPage:88 — The date 10/06/2018: [2, 2]
+2022-06-05 11:45:06,675 — INFO — __CollectVietlottPage:87 — The raw Result: 04
+2022-06-05 11:45:06,675 — INFO — __CollectVietlottPage:88 — The date 08/06/2018: [0, 4]
+2022-06-05 11:45:06,676 — INFO — __CollectVietlottPage:87 — The raw Result: 06
+2022-06-05 11:45:06,676 — INFO — __CollectVietlottPage:88 — The date 06/06/2018: [0, 6]
+2022-06-05 11:45:06,677 — INFO — __CollectVietlottPage:87 — The raw Result: 18
+2022-06-05 11:45:06,677 — INFO — __CollectVietlottPage:88 — The date 03/06/2018: [1, 8]
+2022-06-05 11:45:06,678 — INFO — __CollectVietlottPage:87 — The raw Result: 06
+2022-06-05 11:45:06,678 — INFO — __CollectVietlottPage:88 — The date 01/06/2018: [0, 6]
+2022-06-05 11:45:06,678 — INFO — __CollectVietlottPage:87 — The raw Result: 02
+2022-06-05 11:45:06,679 — INFO — __CollectVietlottPage:88 — The date 30/05/2018: [0, 2]
+2022-06-05 11:45:06,679 — INFO — __CollectVietlottPage:87 — The raw Result: 05
+2022-06-05 11:45:06,679 — INFO — __CollectVietlottPage:88 — The date 27/05/2018: [0, 5]
+2022-06-05 11:45:06,719 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:45:07,154 — INFO — __CollectVietlottPage:87 — The raw Result: 05
+2022-06-05 11:45:07,155 — INFO — __CollectVietlottPage:88 — The date 25/05/2018: [0, 5]
+2022-06-05 11:45:07,155 — INFO — __CollectVietlottPage:87 — The raw Result: 13
+2022-06-05 11:45:07,155 — INFO — __CollectVietlottPage:88 — The date 23/05/2018: [1, 3]
+2022-06-05 11:45:07,156 — INFO — __CollectVietlottPage:87 — The raw Result: 18
+2022-06-05 11:45:07,156 — INFO — __CollectVietlottPage:88 — The date 20/05/2018: [1, 8]
+2022-06-05 11:45:07,156 — INFO — __CollectVietlottPage:87 — The raw Result: 03
+2022-06-05 11:45:07,156 — INFO — __CollectVietlottPage:88 — The date 18/05/2018: [0, 3]
+2022-06-05 11:45:07,157 — INFO — __CollectVietlottPage:87 — The raw Result: 10
+2022-06-05 11:45:07,157 — INFO — __CollectVietlottPage:88 — The date 16/05/2018: [1, 0]
+2022-06-05 11:45:07,159 — INFO — __CollectVietlottPage:87 — The raw Result: 06
+2022-06-05 11:45:07,159 — INFO — __CollectVietlottPage:88 — The date 13/05/2018: [0, 6]
+2022-06-05 11:45:07,161 — INFO — __CollectVietlottPage:87 — The raw Result: 10
+2022-06-05 11:45:07,162 — INFO — __CollectVietlottPage:88 — The date 11/05/2018: [1, 0]
+2022-06-05 11:45:07,162 — INFO — __CollectVietlottPage:87 — The raw Result: 09
+2022-06-05 11:45:07,162 — INFO — __CollectVietlottPage:88 — The date 09/05/2018: [0, 9]
+2022-06-05 11:45:07,223 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:45:07,720 — INFO — __CollectVietlottPage:87 — The raw Result: 06
+2022-06-05 11:45:07,721 — INFO — __CollectVietlottPage:88 — The date 18/04/2018: [0, 6]
+2022-06-05 11:45:07,721 — INFO — __CollectVietlottPage:87 — The raw Result: 03
+2022-06-05 11:45:07,721 — INFO — __CollectVietlottPage:88 — The date 15/04/2018: [0, 3]
+2022-06-05 11:45:07,722 — INFO — __CollectVietlottPage:87 — The raw Result: 11
+2022-06-05 11:45:07,722 — INFO — __CollectVietlottPage:88 — The date 13/04/2018: [1, 1]
+2022-06-05 11:45:07,722 — INFO — __CollectVietlottPage:87 — The raw Result: 07
+2022-06-05 11:45:07,722 — INFO — __CollectVietlottPage:88 — The date 11/04/2018: [0, 7]
+2022-06-05 11:45:07,723 — INFO — __CollectVietlottPage:87 — The raw Result: 02
+2022-06-05 11:45:07,728 — INFO — __CollectVietlottPage:88 — The date 08/04/2018: [0, 2]
+2022-06-05 11:45:07,729 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:45:07,729 — INFO — __CollectVietlottPage:88 — The date 06/04/2018: [0, 1]
+2022-06-05 11:45:07,729 — INFO — __CollectVietlottPage:87 — The raw Result: 02
+2022-06-05 11:45:07,730 — INFO — __CollectVietlottPage:88 — The date 04/04/2018: [0, 2]
+2022-06-05 11:45:07,730 — INFO — __CollectVietlottPage:87 — The raw Result: 04
+2022-06-05 11:45:07,730 — INFO — __CollectVietlottPage:88 — The date 01/04/2018: [0, 4]
+2022-06-05 11:45:07,781 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:45:08,195 — INFO — __CollectVietlottPage:87 — The raw Result: 07
+2022-06-05 11:45:08,195 — INFO — __CollectVietlottPage:88 — The date 30/03/2018: [0, 7]
+2022-06-05 11:45:08,195 — INFO — __CollectVietlottPage:87 — The raw Result: 12
+2022-06-05 11:45:08,196 — INFO — __CollectVietlottPage:88 — The date 28/03/2018: [1, 2]
+2022-06-05 11:45:08,196 — INFO — __CollectVietlottPage:87 — The raw Result: 04
+2022-06-05 11:45:08,196 — INFO — __CollectVietlottPage:88 — The date 25/03/2018: [0, 4]
+2022-06-05 11:45:08,197 — INFO — __CollectVietlottPage:87 — The raw Result: 03
+2022-06-05 11:45:08,197 — INFO — __CollectVietlottPage:88 — The date 23/03/2018: [0, 3]
+2022-06-05 11:45:08,197 — INFO — __CollectVietlottPage:87 — The raw Result: 06
+2022-06-05 11:45:08,198 — INFO — __CollectVietlottPage:88 — The date 21/03/2018: [0, 6]
+2022-06-05 11:45:08,198 — INFO — __CollectVietlottPage:87 — The raw Result: 14
+2022-06-05 11:45:08,198 — INFO — __CollectVietlottPage:88 — The date 18/03/2018: [1, 4]
+2022-06-05 11:45:08,199 — INFO — __CollectVietlottPage:87 — The raw Result: 06
+2022-06-05 11:45:08,199 — INFO — __CollectVietlottPage:88 — The date 16/03/2018: [0, 6]
+2022-06-05 11:45:08,199 — INFO — __CollectVietlottPage:87 — The raw Result: 12
+2022-06-05 11:45:08,199 — INFO — __CollectVietlottPage:88 — The date 14/03/2018: [1, 2]
+2022-06-05 11:45:08,244 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:45:08,685 — INFO — __CollectVietlottPage:87 — The raw Result: 07
+2022-06-05 11:45:08,685 — INFO — __CollectVietlottPage:88 — The date 30/03/2018: [0, 7]
+2022-06-05 11:45:08,685 — INFO — __CollectVietlottPage:87 — The raw Result: 12
+2022-06-05 11:45:08,685 — INFO — __CollectVietlottPage:88 — The date 28/03/2018: [1, 2]
+2022-06-05 11:45:08,686 — INFO — __CollectVietlottPage:87 — The raw Result: 04
+2022-06-05 11:45:08,686 — INFO — __CollectVietlottPage:88 — The date 25/03/2018: [0, 4]
+2022-06-05 11:45:08,686 — INFO — __CollectVietlottPage:87 — The raw Result: 03
+2022-06-05 11:45:08,686 — INFO — __CollectVietlottPage:88 — The date 23/03/2018: [0, 3]
+2022-06-05 11:45:08,687 — INFO — __CollectVietlottPage:87 — The raw Result: 06
+2022-06-05 11:45:08,687 — INFO — __CollectVietlottPage:88 — The date 21/03/2018: [0, 6]
+2022-06-05 11:45:08,687 — INFO — __CollectVietlottPage:87 — The raw Result: 14
+2022-06-05 11:45:08,688 — INFO — __CollectVietlottPage:88 — The date 18/03/2018: [1, 4]
+2022-06-05 11:45:08,688 — INFO — __CollectVietlottPage:87 — The raw Result: 06
+2022-06-05 11:45:08,688 — INFO — __CollectVietlottPage:88 — The date 16/03/2018: [0, 6]
+2022-06-05 11:45:08,689 — INFO — __CollectVietlottPage:87 — The raw Result: 12
+2022-06-05 11:45:08,689 — INFO — __CollectVietlottPage:88 — The date 14/03/2018: [1, 2]
+2022-06-05 11:45:08,730 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:45:09,278 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:45:09,278 — INFO — __CollectVietlottPage:88 — The date 11/03/2018: [0, 1]
+2022-06-05 11:45:09,278 — INFO — __CollectVietlottPage:87 — The raw Result: 05
+2022-06-05 11:45:09,278 — INFO — __CollectVietlottPage:88 — The date 09/03/2018: [0, 5]
+2022-06-05 11:45:09,279 — INFO — __CollectVietlottPage:87 — The raw Result: 08
+2022-06-05 11:45:09,279 — INFO — __CollectVietlottPage:88 — The date 07/03/2018: [0, 8]
+2022-06-05 11:45:09,280 — INFO — __CollectVietlottPage:87 — The raw Result: 04
+2022-06-05 11:45:09,280 — INFO — __CollectVietlottPage:88 — The date 04/03/2018: [0, 4]
+2022-06-05 11:45:09,280 — INFO — __CollectVietlottPage:87 — The raw Result: 03
+2022-06-05 11:45:09,280 — INFO — __CollectVietlottPage:88 — The date 02/03/2018: [0, 3]
+2022-06-05 11:45:09,281 — INFO — __CollectVietlottPage:87 — The raw Result: 17
+2022-06-05 11:45:09,281 — INFO — __CollectVietlottPage:88 — The date 28/02/2018: [1, 7]
+2022-06-05 11:45:09,281 — INFO — __CollectVietlottPage:87 — The raw Result: 08
+2022-06-05 11:45:09,281 — INFO — __CollectVietlottPage:88 — The date 25/02/2018: [0, 8]
+2022-06-05 11:45:09,282 — INFO — __CollectVietlottPage:87 — The raw Result: 05
+2022-06-05 11:45:09,282 — INFO — __CollectVietlottPage:88 — The date 23/02/2018: [0, 5]
+2022-06-05 11:45:09,319 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:45:09,797 — INFO — __CollectVietlottPage:87 — The raw Result: 04
+2022-06-05 11:45:09,797 — INFO — __CollectVietlottPage:88 — The date 31/01/2018: [0, 4]
+2022-06-05 11:45:09,797 — INFO — __CollectVietlottPage:87 — The raw Result: 12
+2022-06-05 11:45:09,797 — INFO — __CollectVietlottPage:88 — The date 28/01/2018: [1, 2]
+2022-06-05 11:45:09,798 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:45:09,798 — INFO — __CollectVietlottPage:88 — The date 26/01/2018: [0, 1]
+2022-06-05 11:45:09,798 — INFO — __CollectVietlottPage:87 — The raw Result: 05
+2022-06-05 11:45:09,798 — INFO — __CollectVietlottPage:88 — The date 24/01/2018: [0, 5]
+2022-06-05 11:45:09,799 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:45:09,799 — INFO — __CollectVietlottPage:88 — The date 21/01/2018: [0, 1]
+2022-06-05 11:45:09,799 — INFO — __CollectVietlottPage:87 — The raw Result: 02
+2022-06-05 11:45:09,800 — INFO — __CollectVietlottPage:88 — The date 19/01/2018: [0, 2]
+2022-06-05 11:45:09,800 — INFO — __CollectVietlottPage:87 — The raw Result: 09
+2022-06-05 11:45:09,800 — INFO — __CollectVietlottPage:88 — The date 17/01/2018: [0, 9]
+2022-06-05 11:45:09,801 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:45:09,801 — INFO — __CollectVietlottPage:88 — The date 14/01/2018: [0, 1]
+2022-06-05 11:45:09,840 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:45:10,249 — INFO — __CollectVietlottPage:87 — The raw Result: 04
+2022-06-05 11:45:10,249 — INFO — __CollectVietlottPage:88 — The date 12/01/2018: [0, 4]
+2022-06-05 11:45:10,250 — INFO — __CollectVietlottPage:87 — The raw Result: 06
+2022-06-05 11:45:10,250 — INFO — __CollectVietlottPage:88 — The date 10/01/2018: [0, 6]
+2022-06-05 11:45:10,250 — INFO — __CollectVietlottPage:87 — The raw Result: 04
+2022-06-05 11:45:10,250 — INFO — __CollectVietlottPage:88 — The date 07/01/2018: [0, 4]
+2022-06-05 11:45:10,251 — INFO — __CollectVietlottPage:87 — The raw Result: 19
+2022-06-05 11:45:10,251 — INFO — __CollectVietlottPage:88 — The date 05/01/2018: [1, 9]
+2022-06-05 11:45:10,251 — INFO — __CollectVietlottPage:87 — The raw Result: 08
+2022-06-05 11:45:10,251 — INFO — __CollectVietlottPage:88 — The date 03/01/2018: [0, 8]
+2022-06-05 11:45:10,252 — INFO — __CollectVietlottPage:87 — The raw Result: 03
+2022-06-05 11:45:10,252 — INFO — __CollectVietlottPage:88 — The date 31/12/2017: [0, 3]
+2022-06-05 11:45:10,252 — INFO — __CollectVietlottPage:87 — The raw Result: 02
+2022-06-05 11:45:10,252 — INFO — __CollectVietlottPage:88 — The date 29/12/2017: [0, 2]
+2022-06-05 11:45:10,253 — INFO — __CollectVietlottPage:87 — The raw Result: 09
+2022-06-05 11:45:10,253 — INFO — __CollectVietlottPage:88 — The date 27/12/2017: [0, 9]
+2022-06-05 11:45:10,289 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:45:10,670 — INFO — __CollectVietlottPage:87 — The raw Result: 04
+2022-06-05 11:45:10,670 — INFO — __CollectVietlottPage:88 — The date 12/01/2018: [0, 4]
+2022-06-05 11:45:10,671 — INFO — __CollectVietlottPage:87 — The raw Result: 06
+2022-06-05 11:45:10,671 — INFO — __CollectVietlottPage:88 — The date 10/01/2018: [0, 6]
+2022-06-05 11:45:10,672 — INFO — __CollectVietlottPage:87 — The raw Result: 04
+2022-06-05 11:45:10,672 — INFO — __CollectVietlottPage:88 — The date 07/01/2018: [0, 4]
+2022-06-05 11:45:10,672 — INFO — __CollectVietlottPage:87 — The raw Result: 19
+2022-06-05 11:45:10,672 — INFO — __CollectVietlottPage:88 — The date 05/01/2018: [1, 9]
+2022-06-05 11:45:10,673 — INFO — __CollectVietlottPage:87 — The raw Result: 08
+2022-06-05 11:45:10,673 — INFO — __CollectVietlottPage:88 — The date 03/01/2018: [0, 8]
+2022-06-05 11:45:10,673 — INFO — __CollectVietlottPage:87 — The raw Result: 03
+2022-06-05 11:45:10,673 — INFO — __CollectVietlottPage:88 — The date 31/12/2017: [0, 3]
+2022-06-05 11:45:10,675 — INFO — __CollectVietlottPage:87 — The raw Result: 02
+2022-06-05 11:45:10,675 — INFO — __CollectVietlottPage:88 — The date 29/12/2017: [0, 2]
+2022-06-05 11:45:10,676 — INFO — __CollectVietlottPage:87 — The raw Result: 09
+2022-06-05 11:45:10,676 — INFO — __CollectVietlottPage:88 — The date 27/12/2017: [0, 9]
+2022-06-05 11:45:10,713 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:45:11,101 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:45:11,102 — INFO — __CollectVietlottPage:88 — The date 24/12/2017: [0, 1]
+2022-06-05 11:45:11,102 — INFO — __CollectVietlottPage:87 — The raw Result: 09
+2022-06-05 11:45:11,102 — INFO — __CollectVietlottPage:88 — The date 22/12/2017: [0, 9]
+2022-06-05 11:45:11,103 — INFO — __CollectVietlottPage:87 — The raw Result: 03
+2022-06-05 11:45:11,103 — INFO — __CollectVietlottPage:88 — The date 20/12/2017: [0, 3]
+2022-06-05 11:45:11,103 — INFO — __CollectVietlottPage:87 — The raw Result: 04
+2022-06-05 11:45:11,103 — INFO — __CollectVietlottPage:88 — The date 17/12/2017: [0, 4]
+2022-06-05 11:45:11,104 — INFO — __CollectVietlottPage:87 — The raw Result: 13
+2022-06-05 11:45:11,104 — INFO — __CollectVietlottPage:88 — The date 15/12/2017: [1, 3]
+2022-06-05 11:45:11,104 — INFO — __CollectVietlottPage:87 — The raw Result: 04
+2022-06-05 11:45:11,104 — INFO — __CollectVietlottPage:88 — The date 13/12/2017: [0, 4]
+2022-06-05 11:45:11,105 — INFO — __CollectVietlottPage:87 — The raw Result: 27
+2022-06-05 11:45:11,105 — INFO — __CollectVietlottPage:88 — The date 10/12/2017: [2, 7]
+2022-06-05 11:45:11,105 — INFO — __CollectVietlottPage:87 — The raw Result: 02
+2022-06-05 11:45:11,106 — INFO — __CollectVietlottPage:88 — The date 08/12/2017: [0, 2]
+2022-06-05 11:45:11,148 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:45:11,678 — INFO — __CollectVietlottPage:87 — The raw Result: 03
+2022-06-05 11:45:11,678 — INFO — __CollectVietlottPage:88 — The date 06/12/2017: [0, 3]
+2022-06-05 11:45:11,678 — INFO — __CollectVietlottPage:87 — The raw Result: 08
+2022-06-05 11:45:11,678 — INFO — __CollectVietlottPage:88 — The date 03/12/2017: [0, 8]
+2022-06-05 11:45:11,679 — INFO — __CollectVietlottPage:87 — The raw Result: 10
+2022-06-05 11:45:11,679 — INFO — __CollectVietlottPage:88 — The date 01/12/2017: [1, 0]
+2022-06-05 11:45:11,679 — INFO — __CollectVietlottPage:87 — The raw Result: 19
+2022-06-05 11:45:11,679 — INFO — __CollectVietlottPage:88 — The date 29/11/2017: [1, 9]
+2022-06-05 11:45:11,680 — INFO — __CollectVietlottPage:87 — The raw Result: 04
+2022-06-05 11:45:11,680 — INFO — __CollectVietlottPage:88 — The date 26/11/2017: [0, 4]
+2022-06-05 11:45:11,680 — INFO — __CollectVietlottPage:87 — The raw Result: 14
+2022-06-05 11:45:11,680 — INFO — __CollectVietlottPage:88 — The date 24/11/2017: [1, 4]
+2022-06-05 11:45:11,681 — INFO — __CollectVietlottPage:87 — The raw Result: 05
+2022-06-05 11:45:11,681 — INFO — __CollectVietlottPage:88 — The date 22/11/2017: [0, 5]
+2022-06-05 11:45:11,681 — INFO — __CollectVietlottPage:87 — The raw Result: 14
+2022-06-05 11:45:11,682 — INFO — __CollectVietlottPage:88 — The date 19/11/2017: [1, 4]
+2022-06-05 11:45:11,719 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:45:12,111 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:45:12,111 — INFO — __CollectVietlottPage:88 — The date 29/10/2017: [0, 1]
+2022-06-05 11:45:12,112 — INFO — __CollectVietlottPage:87 — The raw Result: 04
+2022-06-05 11:45:12,112 — INFO — __CollectVietlottPage:88 — The date 27/10/2017: [0, 4]
+2022-06-05 11:45:12,112 — INFO — __CollectVietlottPage:87 — The raw Result: 12
+2022-06-05 11:45:12,113 — INFO — __CollectVietlottPage:88 — The date 25/10/2017: [1, 2]
+2022-06-05 11:45:12,113 — INFO — __CollectVietlottPage:87 — The raw Result: 08
+2022-06-05 11:45:12,113 — INFO — __CollectVietlottPage:88 — The date 22/10/2017: [0, 8]
+2022-06-05 11:45:12,114 — INFO — __CollectVietlottPage:87 — The raw Result: 02
+2022-06-05 11:45:12,114 — INFO — __CollectVietlottPage:88 — The date 20/10/2017: [0, 2]
+2022-06-05 11:45:12,114 — INFO — __CollectVietlottPage:87 — The raw Result: 16
+2022-06-05 11:45:12,114 — INFO — __CollectVietlottPage:88 — The date 18/10/2017: [1, 6]
+2022-06-05 11:45:12,115 — INFO — __CollectVietlottPage:87 — The raw Result: 02
+2022-06-05 11:45:12,115 — INFO — __CollectVietlottPage:88 — The date 15/10/2017: [0, 2]
+2022-06-05 11:45:12,115 — INFO — __CollectVietlottPage:87 — The raw Result: 10
+2022-06-05 11:45:12,116 — INFO — __CollectVietlottPage:88 — The date 13/10/2017: [1, 0]
+2022-06-05 11:45:12,155 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:45:12,548 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:45:12,548 — INFO — __CollectVietlottPage:88 — The date 29/10/2017: [0, 1]
+2022-06-05 11:45:12,549 — INFO — __CollectVietlottPage:87 — The raw Result: 04
+2022-06-05 11:45:12,549 — INFO — __CollectVietlottPage:88 — The date 27/10/2017: [0, 4]
+2022-06-05 11:45:12,549 — INFO — __CollectVietlottPage:87 — The raw Result: 12
+2022-06-05 11:45:12,549 — INFO — __CollectVietlottPage:88 — The date 25/10/2017: [1, 2]
+2022-06-05 11:45:12,550 — INFO — __CollectVietlottPage:87 — The raw Result: 08
+2022-06-05 11:45:12,550 — INFO — __CollectVietlottPage:88 — The date 22/10/2017: [0, 8]
+2022-06-05 11:45:12,550 — INFO — __CollectVietlottPage:87 — The raw Result: 02
+2022-06-05 11:45:12,551 — INFO — __CollectVietlottPage:88 — The date 20/10/2017: [0, 2]
+2022-06-05 11:45:12,551 — INFO — __CollectVietlottPage:87 — The raw Result: 16
+2022-06-05 11:45:12,551 — INFO — __CollectVietlottPage:88 — The date 18/10/2017: [1, 6]
+2022-06-05 11:45:12,552 — INFO — __CollectVietlottPage:87 — The raw Result: 02
+2022-06-05 11:45:12,552 — INFO — __CollectVietlottPage:88 — The date 15/10/2017: [0, 2]
+2022-06-05 11:45:12,552 — INFO — __CollectVietlottPage:87 — The raw Result: 10
+2022-06-05 11:45:12,552 — INFO — __CollectVietlottPage:88 — The date 13/10/2017: [1, 0]
+2022-06-05 11:45:12,592 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:45:13,047 — INFO — __CollectVietlottPage:87 — The raw Result: 04
+2022-06-05 11:45:13,047 — INFO — __CollectVietlottPage:88 — The date 11/10/2017: [0, 4]
+2022-06-05 11:45:13,047 — INFO — __CollectVietlottPage:87 — The raw Result: 08
+2022-06-05 11:45:13,048 — INFO — __CollectVietlottPage:88 — The date 08/10/2017: [0, 8]
+2022-06-05 11:45:13,048 — INFO — __CollectVietlottPage:87 — The raw Result: 04
+2022-06-05 11:45:13,048 — INFO — __CollectVietlottPage:88 — The date 06/10/2017: [0, 4]
+2022-06-05 11:45:13,049 — INFO — __CollectVietlottPage:87 — The raw Result: 04
+2022-06-05 11:45:13,049 — INFO — __CollectVietlottPage:88 — The date 04/10/2017: [0, 4]
+2022-06-05 11:45:13,049 — INFO — __CollectVietlottPage:87 — The raw Result: 08
+2022-06-05 11:45:13,049 — INFO — __CollectVietlottPage:88 — The date 01/10/2017: [0, 8]
+2022-06-05 11:45:13,050 — INFO — __CollectVietlottPage:87 — The raw Result: 23
+2022-06-05 11:45:13,050 — INFO — __CollectVietlottPage:88 — The date 29/09/2017: [2, 3]
+2022-06-05 11:45:13,050 — INFO — __CollectVietlottPage:87 — The raw Result: 10
+2022-06-05 11:45:13,050 — INFO — __CollectVietlottPage:88 — The date 27/09/2017: [1, 0]
+2022-06-05 11:45:13,051 — INFO — __CollectVietlottPage:87 — The raw Result: 04
+2022-06-05 11:45:13,051 — INFO — __CollectVietlottPage:88 — The date 24/09/2017: [0, 4]
+2022-06-05 11:45:13,090 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:45:13,487 — INFO — __CollectVietlottPage:87 — The raw Result: 05
+2022-06-05 11:45:13,488 — INFO — __CollectVietlottPage:88 — The date 22/09/2017: [0, 5]
+2022-06-05 11:45:13,488 — INFO — __CollectVietlottPage:87 — The raw Result: 05
+2022-06-05 11:45:13,488 — INFO — __CollectVietlottPage:88 — The date 20/09/2017: [0, 5]
+2022-06-05 11:45:13,489 — INFO — __CollectVietlottPage:87 — The raw Result: 06
+2022-06-05 11:45:13,489 — INFO — __CollectVietlottPage:88 — The date 17/09/2017: [0, 6]
+2022-06-05 11:45:13,489 — INFO — __CollectVietlottPage:87 — The raw Result: 03
+2022-06-05 11:45:13,489 — INFO — __CollectVietlottPage:88 — The date 15/09/2017: [0, 3]
+2022-06-05 11:45:13,490 — INFO — __CollectVietlottPage:87 — The raw Result: 03
+2022-06-05 11:45:13,490 — INFO — __CollectVietlottPage:88 — The date 13/09/2017: [0, 3]
+2022-06-05 11:45:13,490 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:45:13,490 — INFO — __CollectVietlottPage:88 — The date 10/09/2017: [0, 1]
+2022-06-05 11:45:13,491 — INFO — __CollectVietlottPage:87 — The raw Result: 02
+2022-06-05 11:45:13,492 — INFO — __CollectVietlottPage:88 — The date 08/09/2017: [0, 2]
+2022-06-05 11:45:13,492 — INFO — __CollectVietlottPage:87 — The raw Result: 05
+2022-06-05 11:45:13,492 — INFO — __CollectVietlottPage:88 — The date 06/09/2017: [0, 5]
+2022-06-05 11:45:13,536 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:45:14,018 — INFO — __CollectVietlottPage:87 — The raw Result: 05
+2022-06-05 11:45:14,018 — INFO — __CollectVietlottPage:88 — The date 03/09/2017: [0, 5]
+2022-06-05 11:45:14,018 — INFO — __CollectVietlottPage:87 — The raw Result: 09
+2022-06-05 11:45:14,019 — INFO — __CollectVietlottPage:88 — The date 01/09/2017: [0, 9]
+2022-06-05 11:45:14,019 — INFO — __CollectVietlottPage:87 — The raw Result: 05
+2022-06-05 11:45:14,019 — INFO — __CollectVietlottPage:88 — The date 30/08/2017: [0, 5]
+2022-06-05 11:45:14,020 — INFO — __CollectVietlottPage:87 — The raw Result: 03
+2022-06-05 11:45:14,020 — INFO — __CollectVietlottPage:88 — The date 27/08/2017: [0, 3]
+2022-06-05 11:45:14,020 — INFO — __CollectVietlottPage:87 — The raw Result: 02
+2022-06-05 11:45:14,020 — INFO — __CollectVietlottPage:88 — The date 25/08/2017: [0, 2]
+2022-06-05 11:45:14,021 — INFO — __CollectVietlottPage:87 — The raw Result: 06
+2022-06-05 11:45:14,021 — INFO — __CollectVietlottPage:88 — The date 23/08/2017: [0, 6]
+2022-06-05 11:45:14,022 — INFO — __CollectVietlottPage:87 — The raw Result: 05
+2022-06-05 11:45:14,022 — INFO — __CollectVietlottPage:88 — The date 20/08/2017: [0, 5]
+2022-06-05 11:45:14,022 — INFO — __CollectVietlottPage:87 — The raw Result: 03
+2022-06-05 11:45:14,022 — INFO — __CollectVietlottPage:88 — The date 18/08/2017: [0, 3]
+2022-06-05 11:45:14,062 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:45:14,481 — INFO — __CollectVietlottPage:87 — The raw Result: 06
+2022-06-05 11:45:14,481 — INFO — __CollectVietlottPage:88 — The date 16/08/2017: [0, 6]
+2022-06-05 11:45:14,482 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:45:14,482 — INFO — __CollectVietlottPage:88 — The date 13/08/2017: [0, 1]
+2022-06-05 11:45:14,482 — INFO — __CollectVietlottPage:87 — The raw Result: 01
+2022-06-05 11:45:14,482 — INFO — __CollectVietlottPage:88 — The date 11/08/2017: [0, 1]
+2022-06-05 11:45:14,483 — INFO — __CollectVietlottPage:87 — The raw Result: 11
+2022-06-05 11:45:14,483 — INFO — __CollectVietlottPage:88 — The date 09/08/2017: [1, 1]
+2022-06-05 11:45:14,483 — INFO — __CollectVietlottPage:87 — The raw Result: 02
+2022-06-05 11:45:14,484 — INFO — __CollectVietlottPage:88 — The date 06/08/2017: [0, 2]
+2022-06-05 11:45:14,484 — INFO — __CollectVietlottPage:87 — The raw Result: 03
+2022-06-05 11:45:14,484 — INFO — __CollectVietlottPage:88 — The date 04/08/2017: [0, 3]
+2022-06-05 11:45:14,485 — INFO — __CollectVietlottPage:87 — The raw Result: 07
+2022-06-05 11:45:14,485 — INFO — __CollectVietlottPage:88 — The date 02/08/2017: [0, 7]
+2022-06-05 11:45:14,485 — INFO — __CollectVietlottPage:87 — The raw Result: 08
+2022-06-05 11:45:14,485 — INFO — __CollectVietlottPage:88 — The date 30/07/2017: [0, 8]
+2022-06-05 11:45:14,485 — INFO — __CollectVietlottPage:91 — The collection reach the last day: 30/07/2017
+2022-06-05 11:45:14,543 — INFO — __CollectVietlottPage:97 — Go to the next page.
+2022-06-05 11:45:14,543 — INFO — __CollectVietlottPage:99 — __CollectVietlottPage end
+2022-06-05 11:45:14,544 — INFO — Start:190 — Collect results from Db
+2022-06-05 11:45:14,544 — INFO — Start:197 — Collect results successfully.
